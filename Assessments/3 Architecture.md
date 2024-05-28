@@ -1,0 +1,1 @@
+Pick a component in a computer and explain its role. Describe its inputs and outputs and what it interfaces with. Take a question with some logic gates and describe what it does and a complete truth table. 

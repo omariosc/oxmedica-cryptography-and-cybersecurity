@@ -1,0 +1,1 @@
+The mid-term (end of week 2) test will ask questions about different attacks and potential mitigations.

@@ -1,0 +1,1 @@
+Simple exercises in Python. The main form of assessment is not to see correct answers but rather to observe the students and monitor their effort and focus.

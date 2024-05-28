@@ -1,0 +1,1 @@
+A pair activity to encrypt and decrypt a message. This will involve research on the students’ side.
