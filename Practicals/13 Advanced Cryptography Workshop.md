@@ -1,0 +1,1 @@
+We will discuss symmetric cyphers, the RSA algorithm, advanced encryption standards (AES), electronic code books (ECB), and issues with randomness. An interactive Python notebook will supplement this to discuss and play around with the aforementioned concepts.
