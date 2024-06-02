@@ -1,1 +1,2 @@
 We will go over database systems (database architecture, relational algebra, ER modelling, normalisation, and database design). To supplement this workshop, we will use online modelling software.
+90 mins

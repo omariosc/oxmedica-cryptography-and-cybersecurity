@@ -1,1 +1,2 @@
 Show students how real computers are built from beginning to end, including how to install an operating system. We will not actually build the computer – instead, we will focus on removing certain components and showing its insides.
+1 hour

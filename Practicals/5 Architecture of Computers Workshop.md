@@ -1,1 +1,2 @@
 Discussing computer architecture (Boolean logic, truth tables, number systems, memory, operating systems, CPUs, GPUs). We will provide some assembly code examples and show buffer overflow in action. There will be a supplied worksheet (a Python interactive workbook) they will be able to complete throughout this 2 hour session (providing an exact breakdown may not be feasible here).
+2 hours

@@ -1,1 +1,2 @@
 Get students to set up the VSCode IDE on their devices/computers with Python, pip, and relevant packages. If there are issues, focus on setting up with Google Colab.
+15 mins

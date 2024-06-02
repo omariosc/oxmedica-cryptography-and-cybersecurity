@@ -1,1 +1,2 @@
 Begin going through Codecademy. Students who did not manage to set up in the previous session can do so now.
+45 mins

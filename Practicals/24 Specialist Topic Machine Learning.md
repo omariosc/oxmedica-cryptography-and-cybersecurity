@@ -1,1 +1,2 @@
 We will focus on some basic fundamentals and then examine different Python models with practical examples. Models will include linear regression, lasso regression, and decision trees (including random forest models). We will also consider applying ML models to the data we worked on in the Data Section labs.
+2 hours
