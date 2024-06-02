@@ -6,6 +6,8 @@ Name: _ENTER YOUR NAME HERE_
 
 Welcome to your first cybersecurity case study assessment! This exercise is designed to introduce you to the critical field of cybersecurity through a real-world scenario. You will be given a brief case study to read, followed by a series of questions to help you think critically about the issues involved. This assessment should take about 15 minutes to complete.
 
+This is a closed-book assessment, so please answer the questions based on your understanding of the case study. It is worth 5% of your final grade.
+
 ## Case Study: The Data Breach at Acme Corp
 
 ### Background
@@ -59,5 +61,4 @@ There are no right or wrong answers, but try to consider all aspects of the case
 
 - Copy this file and paste it into a new folder called `"Solutions"`.
 - Rename the document with the file name `"1 Case Study Assessment.md"`.
-- Write your answers in a digital document.
 - Fill in your name at the top of the document.
