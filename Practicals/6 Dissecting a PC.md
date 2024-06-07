@@ -1,2 +1,58 @@
-Show students how real computers are built from beginning to end, including how to install an operating system. We will not actually build the computer – instead, we will focus on removing certain components and showing its insides.
-1 hour
+# Practical 6: Dissecting a PC
+
+## Overview
+
+This practical exercise is designed to show you how real computers are built, including the installation of an operating system. While we will not be building a computer from scratch, we will focus on removing certain components and showing the insides of a computer. This session will take about 1 hour to complete. There is no submission required for this practical.
+
+## Task
+
+### Part 1: Introduction to Computer Components (15 minutes)
+
+1. **Overview of a Computer:**
+   - Discuss the main components of a computer and their functions.
+   - Components to cover:
+     - CPU (Central Processing Unit)
+     - GPU (Graphics Processing Unit)
+     - RAM (Random Access Memory)
+     - Motherboard
+     - Power Supply Unit (PSU)
+     - Hard Drive/SSD (Storage)
+     - Cooling System
+     - Case
+
+2. **Tools and Safety:**
+   - Explain the tools needed to safely open a computer case.
+   - Emphasize the importance of grounding to avoid static electricity damage.
+
+### Part 2: Disassembling a PC (30 minutes)
+
+1. **Opening the Case:**
+   - Demonstrate how to open a computer case safely.
+   - Show the location of screws and latches that need to be removed.
+
+2. **Removing Components:**
+   - Demonstrate how to remove the following components:
+     - RAM: Show how to release the clips and carefully remove the RAM sticks.
+     - Hard Drive/SSD: Show how to disconnect power and data cables, and remove mounting screws.
+     - GPU: Show how to release the PCIe slot latch and remove the GPU.
+     - CPU: Show how to remove the CPU cooler, unlock the CPU socket, and remove the CPU.
+   - Discuss the function of each component as it is removed.
+
+### Part 3: Installing an Operating System (15 minutes)
+
+1. **Reassembling the PC:**
+   - Briefly show how to reassemble the PC by reversing the disassembly steps.
+   - Ensure all components are securely installed and connected.
+
+2. **Installing the Operating System:**
+   - Demonstrate the steps to install an operating system (e.g., Windows, Linux).
+   - Show how to create a bootable USB drive with the OS installer.
+   - Explain the BIOS/UEFI settings to boot from the USB drive.
+   - Walk through the OS installation process, including partitioning the hard drive and completing the setup.
+
+## Summary
+
+- This practical exercise provides hands-on experience with the internal components of a computer and the process of installing an operating system.
+- It aims to enhance your understanding of how computers are assembled and maintained.
+
+There is no submission required for this practical. Enjoy exploring the inner workings of a computer!
