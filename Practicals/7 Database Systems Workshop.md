@@ -137,4 +137,5 @@ CREATE TABLE Borrowings (
 ## Submission
 
 - Document your progress and any important concepts you learn.
-- Save the file with the name "7 Database Systems Workshop.md" in the "Practical Solutions" directory.
+- Save the file with the name `"7 Database Systems Workshop.md"` in the `"Practical Solutions"` directory.
+- Save your progress and ensure all solutions are documented and submitted to GitHub.

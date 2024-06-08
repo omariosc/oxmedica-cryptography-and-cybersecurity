@@ -26,7 +26,6 @@ This practical exercise is designed to give students an opportunity to refine th
 - Write down your original and refined goals in a digital document.
 - Include any questions you have and the answers you received during the session.
 - Save the file with the name `"1 Career Goals.md"` in the `"Practical Solutions"` directory.
-- Submit your completed document to your teacher by the end of the practical session.
 
 ## Example
 

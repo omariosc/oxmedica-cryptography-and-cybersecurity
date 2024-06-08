@@ -11,16 +11,14 @@ This practical exercise is designed to introduce you to computer architecture, i
 1. **Boolean Logic and Truth Tables:**
    - Discuss the basics of Boolean logic and how it is used in computer systems.
    - Provide examples of truth tables for AND, OR, and NOT gates.
-   - Example:
-
-```
-| A | B | AND | OR | NOT A |
-|---|---|-----|----|-------|
-| 0 | 0 |  0  | 0  |   1   |
-| 0 | 1 |  0  | 1  |   1   |
-| 1 | 0 |  0  | 1  |   0   |
-| 1 | 1 |  1  | 1  |   0   |
-```
+   <!-- - Example:
+   | A | B | AND | OR | NOT A |
+   |---|---|-----|----|-------|
+   | 0 | 0 |  0  | 0  |   1   |
+   | 0 | 1 |  0  | 1  |   1   |
+   | 1 | 0 |  0  | 1  |   0   |
+   | 1 | 1 |  1  | 1  |   0   |
+   -->
 
 2. **Number Systems:**
    - Explain different number systems such as binary, decimal, and hexadecimal.
@@ -51,4 +49,4 @@ This practical exercise is designed to introduce you to computer architecture, i
 ## Submission
 
 - Complete the interactive workbook and save your progress.
-- Submit your completed workbook to your teacher by the end of the practical session.
+- Submit your completed workbook to your GitHub repository.

@@ -24,7 +24,7 @@ This practical exercise is designed to show you how real computers are built, in
    - Explain the tools needed to safely open a computer case.
    - Emphasize the importance of grounding to avoid static electricity damage.
 
-### Part 2: Disassembling a PC (30 minutes)
+### Part 2: Disassembling a PC (45 minutes)
 
 1. **Opening the Case:**
    - Demonstrate how to open a computer case safely.
@@ -38,17 +38,12 @@ This practical exercise is designed to show you how real computers are built, in
      - CPU: Show how to remove the CPU cooler, unlock the CPU socket, and remove the CPU.
    - Discuss the function of each component as it is removed.
 
-### Part 3: Installing an Operating System (15 minutes)
+### Part 3: Installing an Operating System (Stretch Exercise)
 
-1. **Reassembling the PC:**
-   - Briefly show how to reassemble the PC by reversing the disassembly steps.
-   - Ensure all components are securely installed and connected.
-
-2. **Installing the Operating System:**
-   - Demonstrate the steps to install an operating system (e.g., Windows, Linux).
-   - Show how to create a bootable USB drive with the OS installer.
-   - Explain the BIOS/UEFI settings to boot from the USB drive.
-   - Walk through the OS installation process, including partitioning the hard drive and completing the setup.
+1. **Installing the Operating System:**
+   - We will not have time to install an operating system during this session, but you can discuss the process with the students. Here are some links to install Windows and Linux.
+       - [How to Install Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
+       - [How to Install Ubuntu](https://ubuntu.com/tutorials/install-ubuntu-desktop)
 
 ## Summary
 

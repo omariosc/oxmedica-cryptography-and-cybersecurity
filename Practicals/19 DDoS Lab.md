@@ -1,2 +1,0 @@
-Reseach task to find an example of a DDoS attack, how it occurred and why, consequences and following preventative/safeguarding measures. Students to work in groups and present at the end of the session.
-1 hour
