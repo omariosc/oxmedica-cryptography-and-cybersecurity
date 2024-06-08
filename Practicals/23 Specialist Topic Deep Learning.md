@@ -1,8 +1,0 @@
-Part 1: A deep learning (DL) crash course. Like the previous ML course, we will operate similarly in the approach. The main focus will be neural networks and using backpropagation and gradient descent. We will look at practical examples using the MNST dataset to classify hand-written numbers.
-1 hour
-
-Part 2: Continuing DL course. We will introduce more models, such as transformers (how models like ChatGPT work) and convolution neural networks (for operating on images with a practical exercise on image segmentation). We will conclude by presenting DL applications within the cryptography and cybersecurity field.
-30 mins
-
-Part 3: The actual final 90 minutes will be kept for extension activities and as a buffer in case circumstances lead to the planned classes not being completed. I would expect this set of topics to be interesting for the students, so it should be more interactive and have more questions and answers from students.
-1 hour 45 mins
