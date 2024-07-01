@@ -20,4 +20,4 @@ We do not have complete access to Codecademy so we will use the code examples in
 
 Copy and paste the different code blocks into a new python file called `3 Coding Lab Learning Python.ipynb`. Use a separate block for each individual taski the course reader.
 
-This file should be inside the `Practicals` directory.
+This file should be inside the `Practicals Solutions` directory.
