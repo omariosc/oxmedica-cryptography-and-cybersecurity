@@ -13,7 +13,7 @@ This practical exercise is designed to introduce you to relational data in SQL, 
    - Explain tables, rows, columns, and relationships between tables.
 
 2. **SQL Queries:**
-   - Write basic SQL queries to select, insert, update, and delete data.
+   - Write basic SQL queries to select, insert, update, and delete data. Here is an example for a users table, change it and make it for a different table (e.g. below uses the `Users` table).
 
 <!-- - Example Queries:
     SELECT * FROM Users;
@@ -29,14 +29,14 @@ This practical exercise is designed to introduce you to relational data in SQL, 
    - Provide examples of vulnerable SQL code and how an attacker can exploit it.
 
 2. **Demonstration:**
-   - Show a demonstration of a simple SQL injection attack.
+   - Show a demonstration of a simple SQL injection attack. Try to make it work for your example from Part 1.
 
 <!-- - Example:
     SELECT * FROM Users WHERE username = 'admin' -- ' AND password = 'password';
     -->
 
 3. **Preventing SQL Injection:**
-   - Discuss methods to prevent SQL injection, such as using prepared statements and parameterized queries.
+   - Discuss methods to prevent SQL injection, such as using prepared statements and parameterized queries. Copy the code in markdown, you do not need to run this, just see how it runs te code.
 
 <!-- - Example:
     import sqlite3
@@ -49,7 +49,7 @@ This practical exercise is designed to introduce you to relational data in SQL, 
 ### Part 3: SQL and Python Exercises (20 minutes)
 
 1. **SQL Exercise:**
-   - Convert the following SQL queries into executable code.
+  - See how the following SQL is converted into Python code. Run the following code and explain the output, describing the steps taken and final table. Use comments or markdown cells.
      ```sql
      -- Create a table
      CREATE TABLE Products (
@@ -71,9 +71,7 @@ This practical exercise is designed to introduce you to relational data in SQL, 
      -- Delete data from the table
      DELETE FROM Products WHERE name = 'Product2';
      ```
-
-2. **Python Exercise:**
-   - Run the following code and explain the output, describing the steps taken and final table.
+   
      ```python
      # Connect to SQLite database
      import sqlite3
