@@ -123,6 +123,6 @@ This practical exercise is designed to introduce you to relational data in SQL, 
 
 - Complete the exercises and ensure all solutions are documented.
 - Save your progress and ensure all solutions are documented and submitted to GitHub.
-- Save the file with the name `"8 SQL Lab.md"` in the `"Practical Solutions"` directory.
+- Save the file with the name `"8 SQL Lab.ipynb"` in the `"Practical Solutions"` directory.
 
 Have fun, and enjoy learning about SQL and its integration with Python!
