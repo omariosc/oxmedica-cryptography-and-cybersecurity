@@ -20,7 +20,17 @@ This practical exercise is designed to introduce you to the mathematical princip
 3. **Research Task:**
    - Research different types of encryption algorithms used in modern cryptography, such as symmetric encryption, asymmetric encryption, and hashing algorithms.
    - Discuss the advantages and disadvantages of each type of encryption algorithm.
+hashing: its by far the strongest and most unbreakable however its a one way tranaction ie there is no way to go back to the original text 
+**Benefits of Symmetric Encryption:**
+1. **Security:** Provides strong encryption when implemented correctly, ensuring data confidentiality.
+2. **Speed:** Fast encryption and decryption processes due to the simplicity of using a single key.
+3. **Efficiency:** Requires less computational resources compared to asymmetric encryption.
+4. **Simplicity:** Easy to implement and manage because it involves only one key for both encryption and decryption.
+5. **Compatibility:** Widely supported across various software and hardware platforms, making it versatile for different applications.
 
+**Drawback of Symmetric Encryption:**
+- **Key Management:** The main challenge is securely managing the encryption key, as any compromise can lead to unauthorized access to encrypted data.(source:device authority)
+meanwhile aysmetric encryption reaps all the benifits whiel eleminationg drawbacks however it is more complex to manage 
 ### Part 2: Caesar Cipher (10 minutes)
 
 1. **Introduction to Caesar Cipher:**
@@ -30,7 +40,7 @@ This practical exercise is designed to introduce you to the mathematical princip
 2. **Encryption Process:**
    - Choose a shift value (key).
    - For each letter in the plaintext, find its corresponding letter in the ciphertext by shifting it by the chosen value.
-
+   -
 3. **Example:**
    - Plaintext: HELLO
    - Key: 3
@@ -41,7 +51,11 @@ This practical exercise is designed to introduce you to the mathematical princip
      - L -> O
      - O -> R
    - Ciphertext: KHOOR
-
+plain text hi
+encryption:
+h->i
+i->j
+ciphertext : ij
 4. **Decryption Process:**
    - To decrypt the message, shift each letter in the ciphertext back by the same value.
    - Example:
@@ -51,6 +65,10 @@ This practical exercise is designed to introduce you to the mathematical princip
      - O -> L
      - R -> O
    - Plaintext: HELLO
+   ciphertext:ij
+decryption 
+i->h
+j->i
 
 ### Part 3: Vigenère Cipher (10 minutes)
 
@@ -80,8 +98,18 @@ This practical exercise is designed to introduce you to the mathematical princip
      - W (shift by E) -> A
      - N (shift by Y) -> L
    - Ciphertext: KXRGIKXBKAL
-
-4. **Decryption Process:**
+PLAINTEXT:NIGERIA
+KEY WORD :RIVER
+ENCRYPTION STEPS
+N SHIFT BY R = e
+i shift by i = r
+g shift by v = b
+e shift by e = j
+r ahift by r = i
+i shift by r = z
+a shift by i = j 
+cipher text = erbjizj
+4. **DecryptionA Process:**
    - To decrypt the message, shift each letter in the ciphertext back by the corresponding letter in the keyword.
    - Example:
      - K (shift by K) -> A
@@ -97,7 +125,15 @@ This practical exercise is designed to introduce you to the mathematical princip
      - A (shift by E) -> W
      - L (shift by Y) -> N
    - Plaintext: ATTACKATDAWN
-
+cipher text =erbjizj
+decryption
+e SHIFT BY R = n
+r shift by i = i
+b shift by v = g
+j shift by e = e
+i ahift by r = r
+z shift by r = i
+j shift by i = a 
 ## Summary
 
 - Encryption is a method of protecting the confidentiality of a message by converting it into an unreadable format.

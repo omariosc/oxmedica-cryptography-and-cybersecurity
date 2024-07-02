@@ -1,5 +1,5 @@
 # 3 Architecture of Computers Assessment Brief
-
+fahad  homoud
 ## Overview
 
 Welcome to your third assessment! This exercise is designed to deepen your understanding of computer components and basic logic gates. You will be asked to pick a computer component and explain its role, inputs, outputs, and interfaces. Additionally, you will solve a logic gate question and provide a complete truth table. This assessment should take about 30 minutes to complete.
@@ -12,11 +12,14 @@ This is an open-book assessment, so feel free to refer to any resources you find
 
 1. **Choose a Component:**
    - Pick a component inside a computer (e.g., GPU, RAM, Hard Drive, Motherboard, Power Supply, etc.), excluding the CPU (as we will use it as an example).
-
+RAM
 2. **Describe the Component:**
    - Explain the role of the chosen component in the computer system.
+   random acces memoryRAM it acts as the temporary short term memory storage (ie memory that needs imedeate acces )
    - Describe its inputs and outputs.
+   it intakes temporary information form the user  and it out puts that same information to the cpu so that it can excute it  
    - Identify what other components or systems it interfaces with.
+   it helps out the cpu and gpu(occaionally)
 
 ### Example Component
 
@@ -54,6 +57,17 @@ This is an open-book assessment, so feel free to refer to any resources you find
 | 0 | 1 |     0     |        1       |
 | 1 | 0 |     0     |        1       |
 | 1 | 1 |     1     |        0       | -->
+
+
+
+
+ A  | B |  a or b   |not a or b(inverter) |
+|---|---|-----------|---------------------|
+| 0 | 0 |     0     |        1            |
+| 0 | 1 |     1     |        0            |
+| 1 | 0 |     1     |        0            |
+| 1 | 1 |     1     |        0            |
+the following gate could also be described as a nor gate 
 
 ## Submission
 

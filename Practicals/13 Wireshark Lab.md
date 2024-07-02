@@ -87,3 +87,4 @@ This practical exercise is designed to introduce you to the Wireshark software t
 - Complete the exercises and ensure all solutions are documented.
 - Save your progress and ensure all solutions are documented and submitted to GitHub.
 - Save the file with the name `"13 Wireshark Lab.md"` in the `"Practical Solutions"` directory.
+i was able to find info and public cookies web server addresses and ips 

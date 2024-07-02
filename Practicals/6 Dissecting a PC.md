@@ -12,13 +12,20 @@ This practical exercise is designed to show you how real computers are built, in
    - Discuss the main components of a computer and their functions.
    - Components to cover:
      - CPU (Central Processing Unit)
+     interprets, processes and executes instructions, most often from the hardware and software programs running on the device
      - GPU (Graphics Processing Unit)
+      helps handle graphics-related work like graphics, effects, and videos
      - RAM (Random Access Memory)
+     RAM is a temporary memory bank where your computer stores data it needs to retrieve quickly
      - Motherboard
+     . It connects all of the internal components, like the memory, processor, graphics card and other hardware
      - Power Supply Unit (PSU)
+     ITS WHAT SUPPLIES THE PC WITH POWER AND HELPS STOP IT FROM BEING FRIED
      - Hard Drive/SSD (Storage)
      - Cooling System
+     helps keep the pc from over heating
      - Case
+     OUTSIDE PRROTECTION 
 
 2. **Tools and Safety:**
    - Explain the tools needed to safely open a computer case.
