@@ -1,5 +1,3 @@
-# 1 Cybersecurity Case Study Assessment Brief
-
 Name: _Abdullah hassan alabbad_
 
 ## Overview
