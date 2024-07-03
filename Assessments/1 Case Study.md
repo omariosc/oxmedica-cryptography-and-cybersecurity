@@ -41,16 +41,34 @@ Acme Corp, a large retail company, experienced a significant data breach last ye
 
 ## Answers
 
-1.
+1.A data breach is when unauthorized parties access sensitive information, impacting companies financially and damaging customer trust due to identity theft risks and privacy violations.
 
-2.
 
-3.
+2.Phishing emails are deceptive messages that trick recipients into revealing sensitive information or downloading malware
 
-4.
+3.there are three basic cybersecurity practices that Acme Corp could have implemented to prevent a data breach:
+1.Employee Training
+2.Email Filtering
+3.Multi-Factor Authentication (MFA)
 
-5.
 
+4. the Consequences for Customers:
+
+Identity Theft
+Financial Loss
+Privacy Invasion
+
+ the Impact on Acme Corp's Reputation and Business Operations:
+Loss of Trust
+Legal and Regulatory Consequences
+Operational Disruption
+Financial Costs
+
+5.To detect and respond to data breaches more quickly, companies can take the following steps:
+
+Implement Intrusion Detection Systems (IDS) and Intrusion Prevention Systems (IPS)
+Deploy Endpoint Detection and Response (EDR) Solutions
+Utilize Security Information and Event Management (SIEM) Systems
 ## Instructions
 
 Read the case study and answer the questions in complete sentences.

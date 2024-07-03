@@ -21,6 +21,7 @@ This practical exercise is designed to introduce you to database systems, includ
 1. **Introduction:**
    - Explain the fundamental operations of relational algebra:
      - Selection (σ)
+         Selects rows from a relation that satisfy a given predicate.
      - Projection (π)
      - Union (∪)
      - Set Difference (−)
