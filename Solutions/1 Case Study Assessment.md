@@ -41,15 +41,15 @@ Acme Corp, a large retail company, experienced a significant data breach last ye
 
 ## Answers
 
-1. data breach is an info's leaking cyperattacks that focusing very tight on leaking customers and other companies infos.
+1. data breach is an info's leaking cyberattacks that focusing very tight on leaking customers and other companies infos.
 
 2. phishing email is an mail sent to a employee in the corp this phising email probably contatins a links, and after the employee clicks on the link, the hacker can easily get to company network and enter it.
 
 3. updating the old security systems that the comapny have, give the cybersecurity a courses that tell them the new hacking ways and phishing.
 
-4. customers and other comapnies will evantully stop working with the corp because of the breach that happend in it, that leaked a lot of customers and comapnies info's, all sides that thier info's got leaked will leave a bad review, other then the eco loss that happend.
+4. customers and other comapnies will evantully stop working with the corp because of the breach that happend in it, that leaked a lot of customers and comapnies info's, all sides that got thier info's leaked will leave a bad review, other then the eco loss that happend or will happen.
 
-5. cybersecurity employees are very important and of course they are in need for them, corp should've trained the employess very probably for what might happend. 
+5. cybersecurity employees are very important and of course they are in need of them, corp should've trained the employess very probably for what might happen and gave them courses. 
 
 ## Instructions
 
