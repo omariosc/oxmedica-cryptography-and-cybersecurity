@@ -13,8 +13,8 @@ Welcome to your second cybersecurity assessment! This practical exercise is desi
    - Take inspiration from the course reader and write a Python program of at least 20 lines. 
    - Make sure you have at least 5 comments to explain your code
 
-3. **Observation Criteria:**
-   - Effort: Are you actively trying to complete the tasks?
+3. **Observation riteria:**
+   - Effort: AreC you actively trying to complete the tasks?
    - Focus: Are you staying on task without getting distracted?
    - Understanding: Are you able to grasp the basic concepts introduced in the lesson?
 

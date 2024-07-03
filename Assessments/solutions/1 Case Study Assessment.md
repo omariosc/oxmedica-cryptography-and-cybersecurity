@@ -41,24 +41,15 @@ Acme Corp, a large retail company, experienced a significant data breach last ye
 
 ## Answers
 
-1.
+1. a data breach is the leeaking of information and can be signifcant when is show importan or personal info
 
-2.
+2.a type of online scam that targets consumers by sending them an e-mail that appears to be from a well-known source
 
-3.
+3.renewing software lack of security
 
-4.
+4. the custonmers might lose a lot of money or blackmail
 
-5.
+5.more supervision buying better sodtware
 
-## Instructions
+## Instructionsg
 
-Read the case study and answer the questions in complete sentences.
-Think critically about each question and provide thoughtful responses.
-There are no right or wrong answers, but try to consider all aspects of the case study.
-
-## Submission
-
-- Copy this file and paste it into a new folder called `"Solutions"`.
-- Rename the document with the file name `"1 Case Study Assessment.md"`.
-- Fill in your name at the top of the document.

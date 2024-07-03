@@ -55,8 +55,7 @@ This practical exercise is designed to introduce you to database systems, includ
 1. **Design a Database:**
    - Using the ER model created earlier, design a database schema.
    - Define tables, primary keys, and foreign keys based on the ER model.
-
-2. **Implementation:**
+   
    - Use an online SQL editor (e.g., db-fiddle.com) to create tables and relationships.
 
 <!-- ## Example Exercises
@@ -111,7 +110,7 @@ Using an online SQL editor, create tables for the library system ER model.
 
 ```sql
 CREATE TABLE Books (
-    ISBN VARCHAR(20) PRIMARY KEY,
+     VARCISBNHAR(20) PRIMARY KEY,
     Title VARCHAR(255),
     Author VARCHAR(255),
     PublicationYear INT
