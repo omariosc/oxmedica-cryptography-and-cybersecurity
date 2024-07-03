@@ -62,7 +62,7 @@ This practical exercise is designed to introduce you to database systems, includ
 <!-- ## Example Exercises
 
 ```markdown
-# Relational Algebra Example
+#Relational Algebra Example
 
 ## Exercise 1: Selection and Projection
 
@@ -118,7 +118,7 @@ CREATE TABLE Books (
 );
 
 CREATE TABLE Members (
-    MemberID INT PRIMARY KEY,
+    xMemberID INT PRIMARY KEY,
     Name VARCHAR(255),
     MembershipDate DATE
 );
