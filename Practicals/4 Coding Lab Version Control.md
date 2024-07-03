@@ -11,7 +11,7 @@ This practical exercise is designed to introduce you to version control using Gi
 ### Part 1: GitHub Account Setup
 
 1. **Create a GitHub Account:**
-   - Go to [GitHub](https://github.com/) and sign up for a free account if you don’t already have one.
+   - Go to [GitHub](git) and sign up for a free account if you don’t already have one.
 
 ### Part 2: Repository Setup in IDE
 
