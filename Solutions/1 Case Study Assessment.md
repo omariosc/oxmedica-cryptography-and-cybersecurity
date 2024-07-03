@@ -1,6 +1,6 @@
 # 1 Cybersecurity Case Study Assessment Brief
 
-Name: _ENTER YOUR NAME HERE_
+Name: Abdulaziz Badr M Aljoaid
 
 ## Overview
 
