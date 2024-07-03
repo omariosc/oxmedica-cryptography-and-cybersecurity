@@ -1,6 +1,6 @@
 # 1 Cybersecurity Case Study Assessment Brief
 
-Name: _ENTER YOUR NAME HERE_
+Name: _NASSER ALSUDAIS_
 
 ## Overview
 
@@ -41,15 +41,15 @@ Acme Corp, a large retail company, experienced a significant data breach last ye
 
 ## Answers
 
-1.
+1. A Data Breach is when bad actors and hackers get access to sensitive information of a company's customers. This information can include names, age, addresses, credit card information, usernames, passwords, and a lot of other information that a company stores.
 
-2.
+2. Phishing emails are malicious emails that usually contain masquerade as real companies or systems, and link to a malicious webpage with the intention of stealing the victim's account.
 
-3.
+3. They should have had regular security audits, and updated their security software and network very often. They also should have trained the employees on cybersecurity practices.
 
-4.
+4. For the customers, this information is probably publicly available now, and can be tampered with and used. For the company, a data breach is a catastrophic event which will deter all current and future customers away from the company. The company's reputation is now diminished, and unless they're a very popular corporation that dominate the market, they will likely close down.
 
-5.
+5. If companies perform regular security audits and set up a dedicated Incident Response team, then they would detect and respond to data breaches much faster than Acme Corp did. Employee training for these types of incidents would be a very beneficial improvement, and would probably not be very costly for an Enterprise.
 
 ## Instructions
 
