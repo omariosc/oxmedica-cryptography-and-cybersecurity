@@ -11,23 +11,23 @@ This practical exercise is designed to show you how real computers are built, in
 1. **Overview of a Computer:**
    - Discuss the main components of a computer and their functions.
    - Components to cover:
-     - CPU (Central Processing Unit)
-     - GPU (Graphics Processing Unit)
-     - RAM (Random Access Memory)
-     - Motherboard
-     - Power Supply Unit (PSU)
-     - Hard Drive/SSD (Storage)
-     - Cooling System
-     - Case
+     - CPU (Central Processing Unit):Handles all computer processing.
+     - GPU (Graphics Processing Unit):Handles the graphics displayed on screen.
+     - RAM (Random Access Memory):Handles short term memory
+     - Motherboard:Connects all computer components.
+     - Power Supply Unit (PSU):Provides the power to run the computer.
+     - Hard Drive/SSD (Storage): Holds the information and files of the computer aswell as the os.
+     - Cooling System:Helps prevent from over heating the system.
+     - Case:Helps with protecting the  computer physicaly adn helps with air flow to dissapate the heat.
 
 2. **Tools and Safety:**
-   - Explain the tools needed to safely open a computer case.
-   - Emphasize the importance of grounding to avoid static electricity damage.
+   - Explain the tools needed to safely open a computer case: Screwdriver,and gloves.
+   - Emphasize the importance of grounding to avoid static electricity damage:its to release all pent up energy and static electricity
 
 ### Part 2: Disassembling a PC (45 minutes)
 
 1. **Opening the Case:**
-   - Demonstrate how to open a computer case safely.
+   - Demonstrate how to open a computer case safely.We first need to remove the side panels then we remove the screws that hold it in place.
    - Show the location of screws and latches that need to be removed.
 
 2. **Removing Components:**
