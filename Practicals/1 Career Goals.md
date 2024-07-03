@@ -54,3 +54,5 @@ This practical exercise is designed to give students an opportunity to refine th
 3. Read cybersecurity blogs, join relevant forums, and participate in online courses and certifications.
 
 Have fun, and take this opportunity to refine your goals and deepen your understanding of the course material!
+git config --global user.name "A-Almatrafi"
+git config --global user.email "aziz.almatrafi2008@outlook.com 
