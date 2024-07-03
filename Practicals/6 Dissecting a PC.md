@@ -22,13 +22,23 @@ This practical exercise is designed to show you how real computers are built, in
 
 2. **Tools and Safety:**
    - Explain the tools needed to safely open a computer case.
+
+   ANSWER: Opening a computer case requires some basic tools and equipment, such as a screwdriver with a magnetic tip to remove the screws, a flashlight to illuminate the inside of the case and locate components, a can of compressed air to blow away dust and debris from the fans and other parts, a soft brush to gently clean the surfaces of the components, and a pair of tweezers to remove any small objects or wires that may obstruct the case.
+
+
    - Emphasize the importance of grounding to avoid static electricity damage.
+
+  ANSWER: Grounding helps to direct electrical current safely away from sensitive components and channels it into the ground, reducing the risk of electrical shock, damage, and fires. Proper grounding is critical in ensuring the safety and reliability of electrical systems. Electrical grounding serves as a vital safety measure in any electrical system.
 
 ### Part 2: Disassembling a PC (45 minutes)
 
 1. **Opening the Case:**
    - Demonstrate how to open a computer case safely.
-   - Show the location of screws and latches that need to be removed.
+
+Show the location of screws and latches that need to be removed.
+
+ - Show the location of screws and latches that need to be removed.
+
 
 2. **Removing Components:**
    - Demonstrate how to remove the following components:

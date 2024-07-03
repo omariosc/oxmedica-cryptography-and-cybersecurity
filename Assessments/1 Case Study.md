@@ -1,6 +1,6 @@
 # 1 Cybersecurity Case Study Assessment Brief
 
-Name: _ENTER YOUR NAME HERE_
+Name: Raid Yahya Alzahrani.
 
 ## Overview
 
@@ -43,7 +43,7 @@ Acme Corp, a large retail company, experienced a significant data breach last ye
 
 1.
 
-2.
+2..
 
 3.
 
