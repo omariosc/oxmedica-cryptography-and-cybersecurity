@@ -46,7 +46,7 @@ This practical exercise is designed to give students an opportunity to refine th
 1. How can I improve my Python coding skills beyond the basics?
 2. What are the best practices for designing an efficient SQL schema?
 3. How can I stay updated on the latest network security threats and solutions?
-
+4. 
 **Answers:**
 
 1. Practice coding regularly, participate in coding challenges, and work on real-world projects.

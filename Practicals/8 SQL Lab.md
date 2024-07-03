@@ -32,7 +32,11 @@ This practical exercise is designed to introduce you to relational data in SQL, 
    - Show a demonstration of a simple SQL injection attack. Try to make it work for your example from Part 1.
 
 <!-- - Example:
-    SELECT * FROM Users WHERE username = 'admin' -- ' AND password = 'password';
+    SELECT * FROM Users WHERE username = 'admin' OR 1=1
+
+
+
+    
     -->
 
 3. **Preventing SQL Injection:**
