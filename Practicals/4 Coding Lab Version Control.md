@@ -29,7 +29,8 @@ This practical exercise is designed to introduce you to version control using Gi
 ```bat
 git remote add origin https://github.com/your-username/your-repository-name.git
 git branch -M main
-git push -u origin main
+git push -u origin main                            git config --global user.name "Abdullah-Alshehri9"
+                                                   git config --global user.email "abdullah.khaled.alshehri@gmail.com"
 ```
 
 ### Part 3: Branching and Committing

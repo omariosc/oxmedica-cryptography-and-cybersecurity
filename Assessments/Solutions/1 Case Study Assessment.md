@@ -1,6 +1,6 @@
 # 1 Cybersecurity Case Study Assessment Brief
 
-Name: Abdullah Alshehri
+Name: Abdullah Khalid Alshehri.
 
 ## Overview
 
