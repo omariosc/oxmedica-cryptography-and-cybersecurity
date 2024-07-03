@@ -62,4 +62,3 @@ There are no right or wrong answers, but try to consider all aspects of the case
 - Copy this file and paste it into a new folder called `"Solutions"`.
 - Rename the document with the file name `"1 Case Study Assessment.md"`.
 - Fill in your name at the top of the document.
-1
