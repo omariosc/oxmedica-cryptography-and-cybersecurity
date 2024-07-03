@@ -22,8 +22,9 @@ This practical exercise is designed to show you how real computers are built, in
 
 2. **Tools and Safety:**
    - Explain the tools needed to safely open a computer case.
+       <span style="color:red">screw driver with a magneitc tip, compresssed air, tweezer, and a soft brush</span>
    - Emphasize the importance of grounding to avoid static electricity damage.
-
+   <span style="color:red">Grounding prevents static electricity buildup, protecting electronics from damage and ensuring safe operation in sensitive environments.</span>
 ### Part 2: Disassembling a PC (45 minutes)
 
 1. **Opening the Case:**

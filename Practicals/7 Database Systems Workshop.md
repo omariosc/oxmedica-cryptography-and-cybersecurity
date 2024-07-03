@@ -11,7 +11,7 @@ This practical exercise is designed to introduce you to database systems, includ
 1. **Overview:**
    - Discuss the basic architecture of a database system.
    - Components to cover:
-     - Database Engine
+     - Database Engine #runs the whple operation
      - Query Processor
      - Storage Manager
      - Transaction Manager
