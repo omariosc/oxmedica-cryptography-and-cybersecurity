@@ -4,6 +4,8 @@
 
 This practical exercise is designed to introduce you to version control using Git and GitHub. You will create GitHub accounts, set up repositories using your IDE, create branches, make commits, and perform push and pull requests. This task should take about 30 minutes to complete. This version control setup will help you store all your previous and future work from this course.
 
+**Important Note: You need to have Git installed. If it does not work in your terminal, change your terminal to use Git bash. If you need to install Git, click [here](https://git-scm.com/download/win) and select `Next` in all of the installation step.
+
 ## Task
 
 ### Part 1: GitHub Account Setup
