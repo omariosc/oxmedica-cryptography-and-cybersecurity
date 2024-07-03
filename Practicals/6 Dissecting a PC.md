@@ -1,4 +1,4 @@
-# Practical 6: Dissecting a PC
+              # Practical 6: Dissecting a PC
 
 ## Overview
 
