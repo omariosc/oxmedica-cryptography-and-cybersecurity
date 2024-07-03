@@ -34,19 +34,19 @@ This practical exercise is designed to give students an opportunity to refine th
 - Understand the basics of Python programming.
 - Learn how to design an SQL schema.
 - Gain knowledge about network security.
-
+-learn how to encrypt data with a key 
 **Refined Goals:**
 
 - Master Python programming by working on additional projects.
 - Design complex SQL schemas and understand normalization.
 - Implement advanced network security measures in simulations.
-
+- learn how to make my own hash type 
 **Questions:**
 
 1. How can I improve my Python coding skills beyond the basics?
 2. What are the best practices for designing an efficient SQL schema?
 3. How can I stay updated on the latest network security threats and solutions?
-
+4 how do i encrypt code
 **Answers:**
 
 1. Practice coding regularly, participate in coding challenges, and work on real-world projects.

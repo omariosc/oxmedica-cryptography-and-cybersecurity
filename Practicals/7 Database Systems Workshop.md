@@ -12,20 +12,57 @@ This practical exercise is designed to introduce you to database systems, includ
    - Discuss the basic architecture of a database system.
    - Components to cover:
      - Database Engine
+     a database engine is the main componnent a dbms system uses to crate and delete SCUM data as well as update and process it 
      - Query Processor
+     its the processng unit of a dbms system as its used to take inSQL results and process them by forming them relatively to the schema table format and then it takes in that data and hands it over to be rewriten and takenn in by logical components then if it suceedes it hades it over to the  optimizer then moves it over to the query executor
      - Storage Manager
+     its an internal software layer witchrelies on I/O relations to store B-trees and Heaps witch is the transformed to internal data BLOBS
+
      - Transaction Manager
+     it ennsures the saftey of then data after a crash
 
 ### Part 2: Relational Algebra (15 minutes)
 
 1. **Introduction:**
    - Explain the fundamental operations of relational algebra:
      - Selection (σ)
+     its whats used to find rows given a certian condition on a table
      - Projection (π)
+     its what used to find tthe information excluuding the full row soit can be thought ifb as a collumn 
+     for example if i were to store my clients info on a grid format leading with the names and ending with the age the value of - Projection (π)2 - would be the ages of all clients -theirnames and its useful in gathering statistic data
      - Union (∪)
+     Where r and s are either database relations or relation result set (temporary relation).
+
+For a union operation to be valid, the following conditions must hold 
+r, and s must have the same number of attributes.
+Attribute domains must be compatible.
+Duplicate tuples are automatically eliminated.
+the ressult being all of r s and r&s
      - Set Difference (−)
+The result of set difference operation is tuples, which are present in one relation but are not in the second relation.
+
+Notation − r − s
+
+Finds all the tuples that are present in r but not in s.
+the result being r-s
+e.g R=[1,2,3] s = [2,9,5,]
+R-S=[1,3]
      - Cartesian Product (×)
+     the intersections btween the two lists 
      - Rename (ρ)
+     Rename Operation (ρ)
+The results of relational algebra are also relations but without any name. The rename operation allows us to rename the output relation. 'rename' operation is denoted with small Greek letter rho ρ.
+
+Notation − ρ x (E)
+
+Where the result of expression E is saved with name of x.
+
+Additional operations are −
+
+Set intersection
+Assignment
+Natural join
+
 
 2. **Examples:**
    - Provide examples of how these operations can be used to query a database.
