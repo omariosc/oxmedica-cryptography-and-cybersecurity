@@ -40,6 +40,23 @@ This practical exercise is designed to introduce you to computer architecture, i
    - Show an example of a buffer overflow and explain how it can be exploited.
    - Discuss methods to prevent buffer overflow vulnerabilities.
 
+## **Answer**
+
+1.
+   Boolean Logic is a form of algaba where results are calculated as either TRUE or FALSE.
+
+   | A | B | AND | OR | NOT B |
+   |---|---|-----|----|-------|
+   | 1 | 0 |  0  | 1  |   1   |
+   | 1 | 1 |  1  | 1  |   0   |
+   | 1 | 0 |  0  | 1  |   0   |
+   | 0 | 0 |  0  | 0  |   1   |
+
+2.
+   binary is a number system that only uses two digits: 1 and 0.
+
+
+
 ### Part 2: Interactive Workbook (1 hour)
 
 1. **Complete the Supplied Worksheet:**
