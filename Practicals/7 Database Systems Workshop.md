@@ -34,9 +34,10 @@ This practical exercise is designed to introduce you to database systems, includ
 
 1. **Introduction to ER Models:**
    - Explain the components of an Entity-Relationship (ER) model:
-     - Entities
-     - Attributes
-     - Relationships
+   - Entities
+   - Attributes
+   - Relationships
+     
 
 2. **Create an ER Model:**
    - Use online modelling software (e.g., draw.io, Lucidchart) to create an ER model for a sample database.
