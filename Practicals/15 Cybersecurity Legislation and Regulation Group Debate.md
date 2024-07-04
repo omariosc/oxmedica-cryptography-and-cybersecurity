@@ -9,13 +9,13 @@ This practical exercise is designed to help you understand the importance of cyb
 ### Part 1: Choosing Questions and Preparation (10 minutes)
 
 1. **Choose from the Following Questions:**
-   - Should companies be held legally responsible for data breaches involving customer information?
-   - Should ethical hacking be legalised and regulated to improve cybersecurity measures?
-   - Should there be mandatory data breach notification laws for all organisations?
-   - Should governments have the authority to conduct mass surveillance for cybersecurity purposes?
-   - Should there be international standards for cybersecurity regulations and compliance?
-   - Should organisations be required to disclose their cybersecurity practices and measures to the public?
-
+   - Should companies be held legally responsible for data breaches involving customer information? -
+   - Should ethical hacking be legalised and regulated to improve cybersecurity measures? -
+   - Should there be mandatory data breach notification laws for all organisations? X
+   - Should governments have the authority to conduct mass surveillance for cybersecurity purposes? -
+   - Should there be international standards for cybersecurity regulations and compliance? X
+   - Should organisations be required to disclose their cybersecurity practices and measures to the public? X
+ 4 1st        against 2nd
 2. **Divide into Groups:**
    - Divide students into two groups for each question, with one group arguing in favour and the other against.
    - Ensure groups are balanced and each student is assigned a role.
@@ -71,3 +71,14 @@ This practical exercise is designed to help you understand the importance of cyb
 - Include the names of all group members at the top of the document.
 - Save your progress and ensure all solutions are documented and submitted to GitHub.
 - Save the file with the name `"15 Cybersecurity Legislation and Regulation.md"` in the `"Practical Solutions"` directory.
+
+
+
+
+
+
+
+
+word
+
+
