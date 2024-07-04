@@ -71,3 +71,16 @@ This practical exercise is designed to help you understand the importance of cyb
 - Include the names of all group members at the top of the document.
 - Save your progress and ensure all solutions are documented and submitted to GitHub.
 - Save the file with the name `"15 Cybersecurity Legislation and Regulation.md"` in the `"Practical Solutions"` directory.
+
+TERMS AND CONDITION,  we are all familer with terms and condition, it was the first thing we ta;lked about, when you go to log into or make an account use the app, a majority of aPPS make you sign or tick the box that they are not liable.
+YOUR FAUILT FOR TRUSTING YOUR FREIND - you gave your data, your fault fr trusting. 
+they can only do so much work to protect. inevitably will be breaches
+you trusted sony. dont play games then!
+
+1. just because they are fined, does that mean they should be responsible? No, theese companies are targets. there will be breaches. they will not provide services (which we need as humans) if they will be penalised. research and innovation will be constricted.
+2. complications not due to neglicnece? if a breach happens out of the company control whose fault is it?
+3. inability to react isnot about being responsible legally for data breach. we agree that legall responsibl;e for neglicence is important, but not all data breaches are due to negligence
+
+in conclusion, your choice to use services in the first place. it is your choice in the first place. you trsuted them, you agreed to their ToS. if they lie, as you said, it is up to your fault trusting them.
+
+if we do hold them responsible 
