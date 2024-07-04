@@ -34,7 +34,7 @@ This is an open-book assessment, so feel free to refer to any resources you find
 1. **Logic Gate Question:**
    - Given the following logic gate circuit, describe what it does:
      - A circuit with two inputs (A and B) and an output (Q).
-     - The circuit consists of an AND gate followed by a NOT gate.
+     - The circuit consists of an OR gate followed by a NOT gate.
 
 2. **Truth Table:**
    - Create a truth table for the described logic gate circuit.
@@ -54,7 +54,27 @@ This is an open-book assessment, so feel free to refer to any resources you find
 | 0 | 1 |     0     |        1       |
 | 1 | 0 |     0     |        1       |
 | 1 | 1 |     1     |        0       | -->
+## Solutions:
+# Q1:
+Power supply
 
+# Q2:
+- **Role:** Powers the whole computer.
+- **Inputs:** AC voltages, AC frequency, and currents
+- **Outputs:** DC voltages, multipule connectors
+- **Interfaces:** Motherboard, Fan, CPU, GPU, RAM, Storages
+
+# Q3:
+**Logic Gate Circuit:** NOT(OR(A, B))
+- **Description:** The circuit takes two inputs, A and B. The OR gate outputs true if either A and B are true. The NOT gate then inverts this output.
+
+# Truth Table:
+| A | B | OR(A, B) | NOT(OR(A, B)) |
+|---|---|-----------|----------------|
+| 0 | 0 |     0     |        1       |
+| 0 | 1 |     1     |        0       |
+| 1 | 0 |     1     |        0       |
+| 1 | 1 |     1     |        0       | 
 ## Submission
 
 - Write your answers in a digital document.
