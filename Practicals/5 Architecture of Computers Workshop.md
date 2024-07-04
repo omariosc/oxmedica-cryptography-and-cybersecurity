@@ -27,8 +27,7 @@ This practical exercise is designed to introduce you to computer architecture, i
 3. **Memory and Operating Systems:**
    - Discuss the types of memory (RAM, ROM) and their roles in a computer.
    - Provide an overview of how operating systems manage hardware and software resources.
-
-4. **CPUs and GPUs:**
+-+---------------------------------------------------------------------------------------------------------------------+4. **CPUs and GPUs:**
    - Explain the functions of the CPU and GPU in a computer system.
    - Discuss the differences between CPUs and GPUs in terms of processing tasks.
 
