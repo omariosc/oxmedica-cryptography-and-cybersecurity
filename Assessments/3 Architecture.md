@@ -48,11 +48,11 @@ This is an open-book assessment, so feel free to refer to any resources you find
   
 **Truth Table:**
 
-| A | B | AND(A, B) | NOT(AND(A, B)) |
+| A | B | OR(A, B) | NOT(AND(A, B)) |
 |---|---|-----------|----------------|
 | 0 | 0 |     0     |        1       |
-| 0 | 1 |     0     |        1       |
-| 1 | 0 |     0     |        1       |
+| 0 | 1 |     1     |        1       |
+| 1 | 0 |     1     |        1       |
 | 1 | 1 |     1     |        0       | -->
 
 ## Submission
