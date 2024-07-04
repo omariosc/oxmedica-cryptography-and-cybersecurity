@@ -12,15 +12,17 @@ This practical exercise is designed to help you understand the importance of cyb
    - Should companies be held legally responsible for data breaches involving customer information?
 
 
-   (((***Customer information is only inputted by the customers themselves, when they consensually put their information onto another database they admittedly acknowledge that their information is at risk of a cyberattack, therefore, customers have no right to pursue legal action against any company for that matter.-***)))
+   (((***Customers who input their information on another database fully acknowledge and accept the fact that their data is at risk of a cyberattack, therefore, customers have no right to pursue legal action against any company for that matter.-***)))
 
 
    - Should ethical hacking be legalised and regulated to improve cybersecurity measures?
 
-
+    (((***Without simulating a cyberattack, you wouldn't be able to efficentily protect your data. therefore, ethical hacking should be encouraged in cybersecurity practices.***)))
 
    - Should governments have the authority to conduct mass surveillance for cybersecurity purposes?
 
+   (((***While some may argue that mass surveillance will in turn decrease crime rate, ethically it doesn't hold up an argument, not to mention the possible prospect of a massive data leak or an unauthorized or corrupt member using that information maliciously.***)))
+   
 2. **Divide into Groups:**
    - Divide students into two groups for each question, with one group arguing in favour and the other against.
    - Ensure groups are balanced and each student is assigned a role.
