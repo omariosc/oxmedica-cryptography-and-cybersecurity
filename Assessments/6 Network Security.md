@@ -10,7 +10,7 @@ This is an open-book assessment, so feel free to refer to any resources you find
 
 ### Part 1: How the Internet Works (10 minutes)
 
-Write a brief description (150-200 words) of how the internet works. Include key concepts such as IP addresses, DNS, and data packets.
+    Write a brief description (150-200 words) of how the internet works. Include key concepts such as IP addresses, DNS, and data packets.
 
 <!-- ### Example Answer
 
@@ -43,3 +43,8 @@ Network security can be implemented through various methods:
 - Save the file with the name `"6 Network Security Assessment.md"` in the `"Solutions"` folder.
 
 Have fun, and take this opportunity to understand the essential concepts of network security!
+
+
+
+
+
