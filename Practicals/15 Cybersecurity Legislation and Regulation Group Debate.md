@@ -69,25 +69,6 @@ This practical exercise is designed to help you understand the importance of cyb
 - Save your progress and ensure all solutions are documented and submitted to GitHub.
 - Save the file with the name `"15 Cybersecurity Legislation and Regulation.md"` in the `"Practical Solutions"` directory.
 
-<<<<<<< HEAD
-1. Should companies be held legally responsible for 
-   data breaches involving customer information?
-   
-2. Should ethical hacking be legalised and regulated 
-   to improve cybersecurity measures?
-  
-4. Should governments have the authority to 
-   conduct mass surveillance for cybersecurity purposes?
-
-Mark Scheme:
-- Quality of opening arguments
-- Quality of rebuttal (relevant to opening statement)
-- Quality of concluding statement (relevant to rebuttal)
-- Team work and cooperation
-- Participation of all team mates
-- Time-keeping
-- Use of English
-=======
 TERMS AND CONDITION,  we are all familer with terms and condition, it was the first thing we ta;lked about, when you go to log into or make an account use the app, a majority of aPPS make you sign or tick the box that they are not liable.
 YOUR FAUILT FOR TRUSTING YOUR FREIND - you gave your data, your fault fr trusting. 
 they can only do so much work to protect. inevitably will be breaches
@@ -100,4 +81,3 @@ you trusted sony. dont play games then!
 in conclusion, your choice to use services in the first place. it is your choice in the first place. you trsuted them, you agreed to their ToS. if they lie, as you said, it is up to your fault trusting them.
 
 if we do hold them responsible 
->>>>>>> 0d75820 (added files)
