@@ -39,20 +39,19 @@ This is an open-book assessment, so feel free to refer to any resources you find
    - Create a truth table for the described logic gate circuit.
    - Include all possible input combinations and the corresponding output.
 
-<!-- ### Example Logic Gate Circuit
+## Answer
+1.
+   The (AND) Logic gate only passes as Q as 1 when both A and B are equal to 1, other then that Q will be passed as 0.
 
-**Logic Gate Circuit:** NOT(AND(A, B))
+2.
+   As we can see on the board, the circit consists of an (OR) logic gate followed by a (NOT) logic gate so we can say that whenever A or B are equal to 1 the OR gate will pass 1 but the NOt gate will pass it as a 0, but if both A and B are equal to 0, then the OR gate will pass a 0 and the NOT gate will pass a 1.
 
-- **Description:** The circuit takes two inputs, A and B. The AND gate outputs true only if both A and B are true. The NOT gate then inverts this output.
-  
-**Truth Table:**
-
-| A | B | AND(A, B) | NOT(AND(A, B)) |
-|---|---|-----------|----------------|
-| 0 | 0 |     0     |        1       |
-| 0 | 1 |     0     |        1       |
-| 1 | 0 |     0     |        1       |
-| 1 | 1 |     1     |        0       | -->
+   | A | B | OR(A, B) | NOT(OR(A, B)) |
+   |---|---|----------|---------------|
+   | 0 | 0 |     0    |       1       |
+   | 0 | 1 |     1    |       0       |
+   | 1 | 0 |     1    |       0       |
+   | 1 | 1 |     1    |       0       |
 
 ## Submission
 
