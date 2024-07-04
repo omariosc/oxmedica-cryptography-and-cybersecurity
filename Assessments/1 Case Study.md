@@ -1,6 +1,6 @@
 # 1 Cybersecurity Case Study Assessment Brief
 
-Name: _ENTER YOUR NAME HERE_
+Name: _FAISAL SAAD ALSEMAIRY_
 
 ## Overview
 
@@ -41,15 +41,20 @@ Acme Corp, a large retail company, experienced a significant data breach last ye
 
 ## Answers
 
-1.
+1. A data breach is an unllegal access to data by a specific person or unauthorized parties access sensitive or confidential information, including personal data and bank related highly sensitive information , It could make the company aware of security-related problems thus improve safety and solve the weekness.
 
-2.
+2. A phishing email is an email containing unsecure link which is unclear to the user and then when the user enters the link it redirects him to oher websites containing scripts that might make the hacker or the phishing email sender having all information and data stored in the hacked device leading to what is named a data breach .
 
-3.
+3. Many practices could decrease the probability of data breaches and somehow prevent it , as ; Firewalls, intrusion detection systems, antivirus softwares, also encryption of data , and using strong passwords could lead to increase safety of data .
 
-4.
+4. Data breaches can affect the brand's reputation and cause the company to lose customers. It also could damage and corrupt databases. It could be devastating to the business
 
-5.
+5.  In some cases, an entity may take additional steps that are specific to the nature of the breach.
+Step 1: Contain. Once an entity has discovered or suspects that a data breach has occurred, it should immediately take action to limit the breach.
+Step 1: Check
+Step 2: Assess. 
+Step 3: Notify. 
+
 
 ## Instructions
 
