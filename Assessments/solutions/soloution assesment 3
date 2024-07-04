@@ -1,0 +1,10 @@
+RAM is like a temporary workspace for your computer. It holds the data and programs you're currently using so your computer can access them quickly. It's fast but forgets everything when you turn off your computer.
+The CPU, or Central Processing Unit, is like the brain of your computer. It's responsible for executing tasks and calculations that make everything on your computer work. It processes instructions from programs and controls how data moves around. The faster and more powerful the CPU, the quicker your computer can do things like load apps, run games, or process videos.
+
+
+| A | B | Or(A, B) | NOT(or(A, B)) |
+|---|---|-----------|----------------|
+| 0 | 0 |     0     |        1       |
+| 0 | 1 |     1     |        0       |
+| 1 | 0 |     1     |        0       |
+| 1 | 1 |     1     |        0       |

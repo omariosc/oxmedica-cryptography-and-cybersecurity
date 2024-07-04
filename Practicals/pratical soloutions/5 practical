@@ -1,0 +1,21 @@
+def AND(a, b):
+    # TODO: Implement AND gate  
+return a and b
+def OR(a, b):
+    # TODO: Implement OR gate
+return a or b
+
+def NOT(a):
+    # TODO: Implement NOT gate
+return not a
+
+def NAND(a, b):
+    # TODO: Implement NAND gate
+  return not (a and b)
+def NOR(a, b):
+    # TODO: Implement NOR gate
+    return not (a or b)
+    
+
+def XOR(a, b):
+    # TODO: Implement XOR gate

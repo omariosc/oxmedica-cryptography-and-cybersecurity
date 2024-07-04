@@ -21,7 +21,7 @@ This is an open-book assessment, so feel free to refer to any resources you find
 ### Example Component
 
 **Component:** Central Processing Unit (CPU)
-
+ 
 - **Role:** The CPU is the brain of the computer, responsible for executing instructions from programs.
 - **Inputs:** Instructions from memory (RAM), data from storage devices.
 - **Outputs:** Processed data sent back to memory, signals sent to other components for further actions.
