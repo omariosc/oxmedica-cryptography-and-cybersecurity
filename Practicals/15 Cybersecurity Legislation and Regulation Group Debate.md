@@ -19,9 +19,8 @@ This practical exercise is designed to help you understand the importance of cyb
    - Should ethical hacking be legalised and regulated to improve cybersecurity measures?
    - 
    - Should governments have the authority to conduct mass surveillance for cybersecurity purposes?
-   - 
-   - 
->>>>>>> 46c1cbc (Added files)
+   - Should there be international standards for cybersecurity regulations and compliance?
+   - Should organisations be required to disclose their cybersecurity practices and measures to the public?
 
 2. **Divide into Groups:**
    - Divide students into two groups for each question, with one group arguing in favour and the other against.
