@@ -33,8 +33,8 @@ This is an open-book assessment, so feel free to refer to any resources you find
 
 1. **Logic Gate Question:**
    - Given the following logic gate circuit, describe what it does:
-     - A circuit with two inputs (A and B) and an output (Q).
-     - The circuit consists of an AND gate followed by a NOT gate.
+     - A circuit with two inputs (A or B) and an output (Q).
+     - The circuit consists of an OR gate followed by a NOT gate.
 
 2. **Truth Table:**
    - Create a truth table for the described logic gate circuit.
