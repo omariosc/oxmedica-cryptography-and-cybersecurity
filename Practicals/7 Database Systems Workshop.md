@@ -23,7 +23,7 @@ This practical exercise is designed to introduce you to database systems, includ
      - Selection (σ)
      - Projection (π)
      - Union (∪)
-     - Set Difference (−)
+     - Set Difference (−)  
      - Cartesian Product (×)
      - Rename (ρ)
 
