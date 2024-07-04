@@ -10,11 +10,16 @@ This practical exercise is designed to help you understand the importance of cyb
 
 1. **Choose from the Following Questions:**
    - Should companies be held legally responsible for data breaches involving customer information?
+
+
+   (((***Customer information is only inputted by the customers themselves, when they consensually put their information onto another database they admittedly acknowledge that their information is at risk of a cyberattack, therefore, customers have no right to pursue legal action against any company for that matter.-***)))
+
+
    - Should ethical hacking be legalised and regulated to improve cybersecurity measures?
-   - Should there be mandatory data breach notification laws for all organisations?
+
+
+
    - Should governments have the authority to conduct mass surveillance for cybersecurity purposes?
-   - Should there be international standards for cybersecurity regulations and compliance?
-   - Should organisations be required to disclose their cybersecurity practices and measures to the public?
 
 2. **Divide into Groups:**
    - Divide students into two groups for each question, with one group arguing in favour and the other against.
