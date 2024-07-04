@@ -9,9 +9,15 @@ This practical exercise is designed to help you understand the importance of cyb
 ### Part 1: Choosing Questions and Preparation (10 minutes)
 
 1. **Choose from the Following Questions:**
+<<<<<<< HEAD
    1. Should companies be held legally responsible for data breaches involving customer information?
    2. Should ethical hacking be legalised and regulated to improve cybersecurity measures?
    4. Should governments have the authority to conduct mass surveillance for cybersecurity purposes?
+=======
+   - - Should companies be held legally responsible for data breaches involving customer information?
+   - - Should ethical hacking be legalised and regulated to improve cybersecurity measures?
+   - - Should governments have the authority to conduct mass surveillance for cybersecurity purposes?
+>>>>>>> f0b9ff4 (added files)
 
 2. **Divide into Groups:**
    - Divide students into two groups for each question, with one group arguing in favour and the other against.
