@@ -1,0 +1,25 @@
+Name: Mohammed Jasem Binabd
+
+## Part 1
+
+**Component:** Graphics Processing Unit (GPU)
+
+- **Role:** 
+The GPU is like the artist of the computer, it is responsible for drawing images on the screen and speeding up tasks that can be done in parallel, like games.
+- **Inputs:** 
+Graphics Data: Textures, vertex data, and other graphical elements.
+Computational Data: Large datasets, matrices, and vectors for parallel processing tasks.
+- **Outputs:**
+Rendered Images: Final frames/images to be displayed on the screen.
+Performance Metrics: Information about GPU performance, such as frame rates and usage statistics.
+- **Interfaces:**
+Interfaces with CPU, Memory (RAM), Motherboard, Display Devices (Monitors), and Power Supply
+
+## Part 2
+
+| A | B | or(A, B) | NOT(OR(A, B)) |
+|---|---|-----------|----------------|
+| 0 | 0 |     0     |        1       |
+| 0 | 1 |     1     |        0       |
+| 1 | 0 |     1     |        0       |
+| 1 | 1 |     1     |        0       |
