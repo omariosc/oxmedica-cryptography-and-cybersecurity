@@ -19,7 +19,51 @@ This practical exercise is designed to introduce you to the mathematical princip
 
 3. **Research Task:**
    - Research different types of encryption algorithms used in modern cryptography, such as symmetric encryption, asymmetric encryption, and hashing algorithms.
+
+   ANSWER:
+   Symmetric Encryption Algorithms:
+
+   IDEA (International Data Encryption Algorithm):
+
+IDEA is a symmetric encryption algorithm used in some older systems.
+It uses a 128-bit key and operates on 64-bit blocks
+
+   Blowfish:
+
+Blowfish is a symmetric encryption algorithm designed for fast performance.
+It supports key sizes from 32 bits to 448 bits
+
+Asymmetric Encryption Algorithms:
+
+DSA (Digital Signature Algorithm):
+
+DSA is a digital signature algorithm used for generating and verifying digital signatures.
+It is based on the difficulty of computing discrete logarithms.
+
+ECC (Elliptic Curve Cryptography):
+
+ECC is an asymmetric encryption technique based on elliptic curves.
+It offers strong security with shorter key lengths compared to RSA.
+
+Hashing Algorithms:
+
+SHA-256 (Secure Hash Algorithm 256-bit):
+
+SHA-256 is part of the SHA-2 family and is widely used for secure hashing.
+It produces a 256-bit hash value.
+
+SHA-3 (Secure Hash Algorithm 3):
+
+SHA-3 is the latest member of the Secure Hash Algorithm family.
+It was designed as an alternative to SHA-2 and offers improved security features.
+
    - Discuss the advantages and disadvantages of each type of encryption algorithm.
+
+   Symmetric Encryption: Fast, efficient, but requires secure key distribution.
+
+Asymmetric Encryption: Solves key distribution issues, provides authentication, but is computationally expensive.
+
+Hashing Algorithms: Ensure data integrity, efficient, but not reversible and susceptible to collisions.
 
 ### Part 2: Caesar Cipher (10 minutes)
 
@@ -51,29 +95,6 @@ This practical exercise is designed to introduce you to the mathematical princip
      - O -> L
      - R -> O
    - Plaintext: HELLO
-
-   Caeser Cipher:
-   Plaintext: GOODBYE
-   KEY: 2
-   Encryption Steps:
-    G -> I
-    O -> Q
-    O -> Q
-    D -> F
-    B -> D
-    Y -> A
-    E -> G
-   Ciphertext: IQQFDAG
-
-   Decryption steps:
-    I -> G
-    Q -> O
-    Q -> O
-    F -> D
-    D -> B
-    A -> Y
-    G -> E
-
 
 ### Part 3: Vigenère Cipher (10 minutes)
 
@@ -120,25 +141,6 @@ This practical exercise is designed to introduce you to the mathematical princip
      - A (shift by E) -> W
      - L (shift by Y) -> N
    - Plaintext: ATTACKATDAWN
-
-   Vigenere Cipher:
-   Plaintext: SUPER
-   Keyword: BRAND
-   Encryption Steps:
-    S -> U
-    U -> M
-    P -> Q
-    E -> R
-    R -> V
- Ciphertext: UMQRV
-
-
- Decryption steps:
-  U -> S
-  M -> U
-  Q -> P
-  R -> E
-  V -> R
 
 ## Summary
 
