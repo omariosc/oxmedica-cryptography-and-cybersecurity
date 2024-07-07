@@ -30,7 +30,7 @@ This practical exercise is designed to introduce you to the mathematical princip
 2. **Encryption Process:**
    - Choose a shift value (key).
    - For each letter in the plaintext, find its corresponding letter in the ciphertext by shifting it by the chosen value.
-
+ 
 3. **Example:**
    - Plaintext: HELLO
    - Key: 3
