@@ -80,7 +80,7 @@ This practical exercise is designed to introduce you to the mathematical princip
      - W (shift by E) -> A
      - N (shift by Y) -> L
    - Ciphertext: KXRGIKXBKAL
-
+   
 4. **Decryption Process:**
    - To decrypt the message, shift each letter in the ciphertext back by the corresponding letter in the keyword.
    - Example:
