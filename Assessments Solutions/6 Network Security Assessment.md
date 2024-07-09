@@ -1,0 +1,10 @@
+Part 1: 
+The internet is a world wide connection of computers and devices that communicate together by various protocols and technologies. The internet has many parts and key concepts. One of these key concepts is IP addresses. Every device connected to the internet has a unique set of numbers. These set of numbers are used to identify the device's location, allowing other devices to send and receive data. When you send or request information over the internet, it's broken down into small units called data packets. These packets contain the data being sent and the routing information, such as destination IP addresses. Each packet travels independently across the network, potentially taking different paths, and is reassembled at its destination. While IP addresses are essential for routing data, humans find it easier to remember domain names (like example.com) than strings of numbers. DNS translates domain names into IP addresses, functioning like an internet phone book that directs your browser to the correct web server when you type in a URL.
+
+Part 2:
+Network security is crucial because it protects your data when being sent and received. It protects your data from unauthorized access, theft, and damage. Weak security can allow attackers to gain access to your data. Attackers can then steal or damage your data. Some examples of attacks are phising, DoS, and malware. Malware are programs that ran on a device that harms it. Phising is tricking the user into thinking a message or an email came from a trusted sources, while in reality it was a malware. DoS is sending a lot of comands to interrupt another device/server.
+
+Part 3:
+Firewalls: Firewalls are a set of rules that are set to limit programs from getting access to your device. This can make the device more secure.
+Encryption: Encryption is a cipher of data that is being sent to make it secure. The receiver can the decrypt the data.
+Secure Protocols: Secure protocols ensure safety of data that is being sent by encrypting the data and blocking attackers from trying to access the data. An example of this is HTTPS.
