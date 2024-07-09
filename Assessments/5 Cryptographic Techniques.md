@@ -28,6 +28,61 @@ This is an open-book assessment, so feel free to refer to any resources you find
    - Write down the encrypted message clearly.
    - Document the steps you took to encrypt the message, including any keys or shifts used.
 
+## **Answer**
+
+   plintext: Nasserissleepyandsick.
+   key: FRYFRYFRYFRYFRYFRYFRY
+
+     - N (shift by F) -> S
+     - A (shift by R) -> R
+     - S (shift by Y) -> Q
+     - S (shift by F) -> X
+     - E (shift by R) -> V
+     - R (shift by Y) -> P
+     - I (shift by F) -> N
+     - S (shift by R) -> J
+     - S (shift by Y) -> Q
+     - L (shift by F) -> Q
+     - E (shift by R) -> V
+     - E (shift by Y) -> C
+     - P (shift by F) -> U
+     - Y (shift by R) -> P
+     - A (shift by Y) -> Y
+     - N (shift by F) -> S
+     - D (shift by R) -> U
+     - S (shift by Y) -> Q
+     - I (shift by F) -> N
+     - C (shift by R) -> T
+     - K (shift by Y) -> I
+
+     CIPHERTEXT: SRQXVPNJQQVCUPYSUQNTI 
+
+     rencription:
+     Plaintext: SRQXVPNJQQVCUPYSUQNTI
+     KEY: 13
+     - S -> F
+     - R -> E
+     - Q -> D
+     - X -> K
+     - V -> I
+     - P -> C
+     - N -> A
+     - J -> W
+     - Q -> D
+     - Q -> D
+     - V -> I
+     - C -> P
+     - U -> H
+     - P -> C
+     - Y -> L
+     - S -> F
+     - U -> H
+     - Q -> D
+     - N -> A
+     - T -> G
+     - I -> V
+     Ciphertext: FEDKICAWDDIPHCLFHDAGV
+     
 ### Part 3: Decrypt a Message (15 minutes)
 
 1. **Exchange Messages:**
