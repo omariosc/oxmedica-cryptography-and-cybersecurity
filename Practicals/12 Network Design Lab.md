@@ -90,21 +90,7 @@ This practical exercise is designed to help you understand how to design a theor
         ```
 
 ### Part 3: Lightning Talks (1 hour)
-
-1. **Prepare Your Lightning Talk:**
-   - Prepare a brief (3-5 minutes) presentation summarizing your system design, identified vulnerabilities, and mitigation strategies.
-   - Use visual aids if necessary (e.g., slides, diagrams).
-
-2. **Present Your Lightning Talk:**
-   - Each student will present their findings to the class.
-   - Be prepared to answer questions from your peers and instructor.
-
-## Summary
-
-- You have designed a theoretical system that interacts with the internet and identified potential vulnerabilities.
-- You have researched and documented mitigation strategies for each identified vulnerability.
-- You have prepared and presented a lightning talk summarizing your findings.
-
+   
 ## Submission
 
 - Complete the exercises and ensure all solutions are documented.
