@@ -67,80 +67,50 @@ Hashing Algorithms: Ensure data integrity, efficient, but not reversible and sus
 
 ### Part 2: Caesar Cipher (10 minutes)
 
-1. **Introduction to Caesar Cipher:**
-   - The Caesar Cipher is a substitution cipher where each letter in the plaintext is shifted a certain number of places down the alphabet.
-   - Example: With a shift of 3, 'A' becomes 'D', 'B' becomes 'E', and so on.
+Plain text; CYBER
+Key; -1
+Encrybtion steps;
+C-->B
+Y-->X
+B-->A
+E-->D
+R-->Q
+Cipher text; BXADQ
 
-2. **Encryption Process:**
-   - Choose a shift value (key).
-   - For each letter in the plaintext, find its corresponding letter in the ciphertext by shifting it by the chosen value.
-
-3. **Example:**
-   - Plaintext: HELLO
-   - Key: 3
-   - Encryption Steps:
-     - H -> K
-     - E -> H
-     - L -> O
-     - L -> O
-     - O -> R
-   - Ciphertext: KHOOR
-
-4. **Decryption Process:**
-   - To decrypt the message, shift each letter in the ciphertext back by the same value.
-   - Example:
-     - K -> H
-     - H -> E
-     - O -> L
-     - O -> L
-     - R -> O
-   - Plaintext: HELLO
+Decrybtion steps;
+Decrybtion key; 1
+B-->C
+X-->Y
+A-->B
+D-->E
+Q-->R
+Plain text; CYBER
 
 ### Part 3: Vigenère Cipher (10 minutes)
 
-1. **Introduction to Vigenère Cipher:**
-   - The Vigenère Cipher is a more complex form of substitution cipher that uses a keyword to shift letters by different amounts.
-   - Example: Using the keyword "KEY", the shifts would be based on the positions of 'K', 'E', and 'Y' in the alphabet.
 
-2. **Encryption Process:**
-   - Choose a keyword.
-   - Repeat the keyword so it matches the length of the plaintext.
-   - For each letter in the plaintext, shift it by the corresponding letter in the keyword.
 
-3. **Example:**
-   - Plaintext: ATTACKATDAWN
-   - Keyword: KEYKEYKEYKEY
-   - Encryption Steps:
-     - A (shift by K) -> K
-     - T (shift by E) -> X
-     - T (shift by Y) -> R
-     - A (shift by K) -> K
-     - C (shift by E) -> G
-     - K (shift by Y) -> I
-     - A (shift by K) -> K
-     - T (shift by E) -> X
-     - D (shift by Y) -> B
-     - A (shift by K) -> K
-     - W (shift by E) -> A
-     - N (shift by Y) -> L
-   - Ciphertext: KXRGIKXBKAL
+Part 3 Q2:
 
-4. **Decryption Process:**
-   - To decrypt the message, shift each letter in the ciphertext back by the corresponding letter in the keyword.
-   - Example:
-     - K (shift by K) -> A
-     - X (shift by E) -> T
-     - R (shift by Y) -> T
-     - K (shift by K) -> A
-     - G (shift by E) -> C
-     - I (shift by Y) -> K
-     - K (shift by K) -> A
-     - X (shift by E) -> T
-     - B (shift by Y) -> D
-     - K (shift by K) -> A
-     - A (shift by E) -> W
-     - L (shift by Y) -> N
-   - Plaintext: ATTACKATDAWN
+Plain text; CODING
+Keyword; CARCAR
+Encrybtion steps;
+C--(C)>F
+O--(A)>P
+D--(R)>V
+I--(C)>L
+N--(A)>O
+G--(R)>Y
+Cipher text; FPVLOY
+
+Decrybtion steps;
+F--(C)>C
+P--(A)>O
+V--(R)>D
+L--(C)>I
+O--(A)>N
+Y--(R)>G
+Plain text; CODING
 
 ## Summary
 
