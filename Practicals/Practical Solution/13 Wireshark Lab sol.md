@@ -58,22 +58,22 @@ This practical exercise is designed to introduce you to the Wireshark software t
 ### Part 4: Exercises (10 minutes)
 
 1. **Exercise 1: Capture and Filter HTTP Traffic**
-   - TODO: Start a capture on your network interface.
-   - TODO: Open a web browser and visit a website. 
-   - TODO: Stop the capture and apply a filter to display only HTTP traffic. 
-   - TODO: Save the filtered packets to a file. 
+   - TODO: Start a capture on your network interface. DONE.
+   - TODO: Open a web browser and visit a website. DONE.
+   - TODO: Stop the capture and apply a filter to display only HTTP traffic. DONE.
+   - TODO: Save the filtered packets to a file. DONE.
 
 2. **Exercise 2: Analyze DNS Queries**
-   - TODO: Start a capture on your network interface. 
-   - TODO: Perform a DNS query by visiting a website or using the `nslookup` command. 
-   - TODO: Stop the capture and apply a filter to display only DNS traffic. 
-   - TODO: Identify the DNS query and response packets
+   - TODO: Start a capture on your network interface. DONE.
+   - TODO: Perform a DNS query by visiting a website or using the `nslookup` command. DONE.
+   - TODO: Stop the capture and apply a filter to display only DNS traffic. DONE.
+   - TODO: Identify the DNS query and response packets DONE.
 
 3. **Exercise 3: Inspect a TCP Connection**
-   - TODO: Start a capture on your network interface.
-   - TODO: Establish a TCP connection by visiting a website or using a network application.
-   - TODO: Stop the capture and apply a filter to display only TCP traffic.
-   - TODO: Inspect the TCP handshake process (SYN, SYN-ACK, ACK) for the connection.
+   - TODO: Start a capture on your network interface. DONE.
+   - TODO: Establish a TCP connection by visiting a website or using a network application. DONE.
+   - TODO: Stop the capture and apply a filter to display only TCP traffic. DONE.
+   - TODO: Inspect the TCP handshake process (SYN, SYN-ACK, ACK) for the connection. DONE.
 
 ## Summary
 
