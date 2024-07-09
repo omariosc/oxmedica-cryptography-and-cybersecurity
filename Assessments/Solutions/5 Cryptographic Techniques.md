@@ -22,7 +22,7 @@ This is an open-book assessment, so feel free to refer to any resources you find
 
 1. **Select a Message:**
    - Decide on a short message (one or two sentences) to encrypt.
-  
+   Adeeb will be student of the week. 
 2. **Encrypt:**
    - Use the chosen cryptographic technique to encrypt the message.
    - Write down the encrypted message clearly.
@@ -75,3 +75,56 @@ This is an open-book assessment, so feel free to refer to any resources you find
 - Save the file with the name `"5 Cryptographic Techniques Assessment.md"`.
 
 Enjoy learning and exploring the exciting world of cryptography!
+
+1. messsage:
+Adeeb will be student of the week. 
+
+2. Key:
+TRUES
+(T) 4
+(R) 2
+(U) 5
+(E) 1
+(S) 3
+
+TRUES
+19 17 20 4 18
+3. Encription
+
+4 | 2 | 5 | 1 | 3
+-----------------
+A | D | E | E | B --> T U Y I T
+W | I | L | L | B --> P Z F P T
+E | S | T | U | D --> X F N Y V
+E | N | T | O | F --> X E N S X
+T | H | E | W | E --> M I Y A G
+E | K | 5 | 1 | 0 --> X 
+ 
+ MEET M
+
+ CIPHERTEXT - KEY
+ 
+ ELUOM1 DISNHK BBDFE0 AWEETE ELTTE5
+
+ M 13 k
+ D 4 e 
+ I 9 y
+ Z 26 
+ M 13
+ I 9
+ G 7
+ V 22
+ R 18
+ Z 26
+ S 19
+ O 15
+ F 6
+ O 15
+ L 12
+ X 24
+ J 9
+ N 14
+ H 8
+ M 13
+
+ by jp
