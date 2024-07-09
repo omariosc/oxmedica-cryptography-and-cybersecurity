@@ -1,5 +1,7 @@
 # 7 Hacking and Cyber Attacks Assessment Brief
 
+Name: _NSR SDS_
+
 ## Overview
 
 Welcome to your seventh assessment! This mid-term test will assess your understanding of different types of cyber attacks and potential mitigations. This is an open-book assessment worth 20% of your grade and should take about 30 minutes to complete.

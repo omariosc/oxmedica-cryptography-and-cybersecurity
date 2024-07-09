@@ -1,5 +1,7 @@
 # 2 Coding Assessment Brief
 
+Name: _NSR SDS_
+
 ## Overview
 
 Welcome to your second cybersecurity assessment! This practical exercise is designed to introduce you to basic Python programming, a valuable skill in the field of cybersecurity. You will be using the course reader Python materials. It is worth 5% of your final grade.

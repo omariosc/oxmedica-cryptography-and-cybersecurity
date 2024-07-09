@@ -1,5 +1,7 @@
 # 3 Architecture of Computers Assessment Brief
 
+Name: _NSR SDS_
+
 ## Overview
 
 Welcome to your third assessment! This exercise is designed to deepen your understanding of computer components and basic logic gates. You will be asked to pick a computer component and explain its role, inputs, outputs, and interfaces. Additionally, you will solve a logic gate question and provide a complete truth table. This assessment should take about 30 minutes to complete.

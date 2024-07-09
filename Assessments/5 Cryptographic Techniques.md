@@ -1,5 +1,7 @@
 # 5 Cryptographic Techniques Assessment Brief
 
+Name: _NSR SDS_
+
 ## Overview
 
 Welcome to your fifth assessment! This exercise is designed to introduce you to the fundamental concepts of cryptographic techniques through a practical activity. You will work in pairs to research, encrypt, and decrypt a message. This assessment should take about one hour to complete.

@@ -1,5 +1,7 @@
 # 6 Network Security Concepts Assessment Brief
 
+Name: _NSR SDS_
+
 ## Overview
 
 Welcome to your sixth assessment! This exercise is designed to introduce you to network security concepts, including how the internet works, the importance of security, and how security is implemented. This is an open-book assessment worth 15% of your grade and should take about 30 minutes to complete.

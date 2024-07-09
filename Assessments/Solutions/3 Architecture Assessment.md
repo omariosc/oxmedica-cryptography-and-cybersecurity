@@ -1,5 +1,7 @@
 ### Part 1 Instructions
 
+Name: _NSR SDS_
+
 1. **Choose a Component:**
    - Pick a component inside a computer (e.g., GPU, RAM, Hard Drive, Motherboard, Power Supply, etc.), excluding the CPU (as we will use it as an example).
 

@@ -1,6 +1,6 @@
 # 1 Cybersecurity Case Study Assessment Brief
 
-Name: _NASSER ALSUDAIS_
+Name: _NSR SDS_
 
 ## Overview
 

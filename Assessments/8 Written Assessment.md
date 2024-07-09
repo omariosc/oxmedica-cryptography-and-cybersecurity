@@ -1,5 +1,7 @@
 # 8 Final Written Assessment Brief
 
+Name: _NSR SDS_
+
 ## Overview
 
 Welcome to your eighth and final assessment! This assessment will cover all the major topics we have discussed previously, excluding hacking and cyber-attacks, which were addressed in the seventh assessment. The decision to move this written assessment to week 2 was due to the potential lack of time for marking.
