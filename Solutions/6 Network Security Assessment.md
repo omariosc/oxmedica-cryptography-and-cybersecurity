@@ -11,4 +11,4 @@ Instead of using IP addresses, consumers usually use domain names to access webs
 
 
 ### RESOURCES
-- a little use of chatgpt to defintions
+- a little use of chatgpt for defintions
