@@ -47,6 +47,33 @@ This is an open-book assessment, so feel free to refer to any resources you find
 
 Have fun, and take this opportunity to deepen your understanding of cyber attacks and their mitigations!
 
+## Part 1
+1. Phishing: When scammers pretend to be legit and trick you into giving up personal info. Like fake emails from banks asking for your password.
+
+2. Malware: Bad software that messes up your computer or steals your stuff. Like a virus that deletes all your files.
+
+3. Ransomware: Holds your computer or files hostage until you pay up. Like when they lock your pics and say you gotta send money to unlock 'em.
+
+4. DDoS (Distributed Denial of Service): Floods a website with so much traffic it crashes and no one can use it. Like spamming a site with tons of fake visitors.
+
+5. Man-in-the-Middle (MitM): Sneaky attacks where someone secretly intercepts your online chats or transactions. Like spying on your Wi-Fi to steal your login info.
 
 
+
+## Part 2
+
+## Phishing:
+Watch Out for Tricks: Always think twice before clicking on links or sharing personal info in emails or messages.
+
+## Malware:
+Keep Your Guard Up: Use good antivirus software and update it regularly to protect your devices from sneaky viruses.
+
+## Ransomware:
+Backup Your Stuff: Make sure you have copies of important files saved somewhere safe, so you don't lose them if your computer gets locked.
+
+## DDoS (Distributed Denial of Service):
+Keep Your Site Running: Use tools that can help your website stay online and handle lots of visitors, even if it's under attack.
+
+## Man-in-the-Middle (MitM):
+Stay Private Online: Always check for secure connections (like HTTPS) when sharing sensitive info online to avoid anyone snooping on your chats.
 

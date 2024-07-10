@@ -68,3 +68,4 @@ This practical exercise is designed to help you understand Distributed Denial of
 - Include the names of all group members at the top of the document.
 - Save your progress and ensure all solutions are documented and submitted to GitHub.
 - Save the file with the name `"17 DDoS Lab.md"` in the `"Practical Solutions"` directory.
+
