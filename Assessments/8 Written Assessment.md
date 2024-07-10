@@ -13,12 +13,14 @@ Answer the following questions to the best of your ability. Each question is des
 1. **Cybersecurity Case Study:**
    - Explain the impact of a recent high-profile data breach on the affected company and its customers. What steps can organizations take to respond effectively to a data breach?
 
+   a daata breach could lead to sevral downides some of which include the leaking of private documents the leaking of customer bank accounts and ids a huge stain on the trust between customer and and provider and a general impedment in work speed due to the chaos that ocurrs during a data breach 
+
 2. **Practical Python:**
    - Write a Python script that reads a text file and counts the number of occurrences of each word. Describe how your script processes the file and counts the words.
-
+you can find it in the final assesment ipynb file 
 3. **Computer Components and Logic Gates:**
    - Explain the role of RAM in a computer system. What are its inputs and outputs, and how does it interact with the CPU and storage devices?
-
+ram is volitile and is made for quick acces to temprary data, data which it gives to the cpu to use during computation think of it as a cardboard box which is only used temporarly to store stuff and is then thrown out 
 4. **Database Systems:**
    - Design an SQL schema for an online store with the following requirements:
      - Products have a unique ID, name, description, and price.
@@ -28,10 +30,12 @@ Answer the following questions to the best of your ability. Each question is des
 
 5. **Network Security Concepts:**
    - Describe the concept of a VPN (Virtual Private Network). How does it work, and what are its advantages and disadvantages in terms of network security?
-
+a vpn  establishes a digital connection between your computer and a remote server owned by a VPN provider, creating a point-to-point tunnel that encrypts your personal data, alters and hides your IP address, and lets you ignore website blocks and firewalls on the internet.(source:miocrosoft azure)
+but just because a vpn might seem amaing that dosent mean it dosent have cons for example a cheap vpn is slow and may even steal your daa meanwhile a premium vpn is costly and need a substantial amount of money and in both cases a vpn will eat up some of your internet speed and will take up space 
 6. **Cryptographic Techniques:**
    - Explain the concept of public key cryptography. Describe how it differs from symmetric key cryptography and provide an example of how it can be used to secure communication.
-
+a public key is a key well given to the genral public to use however that dosent maen that its entirely inscure as a mathamaticaly linked private key is used to decrypt that information for example if i had a public key and i and you had the private key and i sent that data to you using the public key for encryption it would get scrambeled in such a way that my public key could not decryp it but your mathamaticaly linked private key could 
+however sucha mecanism although it may be conveineient is bound to have some draw backs like the fact that its less confidential in contrast to symetric key cryptography that is way better for such top secret files the only issue with symetric keys is that its difficult to spread  and manage those keys
 ### Submission
 
 - Write your answers in a digital document.
