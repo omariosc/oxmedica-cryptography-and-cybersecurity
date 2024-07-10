@@ -30,7 +30,7 @@ Answer the following questions to the best of your ability. Each question is des
 
 5. **Network Security Concepts:**
    - Describe the concept of a VPN (Virtual Private Network). How does it work, and what are its advantages and disadvantages in terms of network security?
-   # its a software thats make a non-real network to make you look that you connected to it to safe your real network, vpn works in-between the device and the and the targeted server, instead of relying on the browers to encrypt your data, it encrypt it instead with its own encrypts and routes.
+   # its a software thats make a non-real network to make you look that you connected to it to safe your real network, vpn works in-between the device and the and the targeted server, instead of relying on the browers to encrypt your data, it encrypt it instead with its own encrypts and routes, but its also has disadvantages that (you dont know where your infos is going, also if the vpn company got data breaches your infos will fo public, also the untrusted vpn companys can and will use your datas)
 
 6. **Cryptographic Techniques:**
    - Explain the concept of public key cryptography. Describe how it differs from symmetric key cryptography and provide an example of how it can be used to secure communication.
