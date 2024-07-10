@@ -12,11 +12,11 @@ This is an open-book assessment, so feel free to refer to any resources you find
 
 1. **Describe Different Attacks:**
    - Write a brief description of each of the following types of cyber attacks. Include examples where possible.
-     - **Phishing:**
-     - **Malware:**
-     - **Ransomware:**
-     - **DDoS (Distributed Denial of Service):**
-     - **Man-in-the-Middle (MitM):**
+     - **Phishing:** It doesnt directly attack the device. It tries tricking the user into clicking on a suspicious link wich then hacks into the device.
+     - **Malware:** Malicous code/software that damages, desrupts, or takes control of the device to ruin it.
+     - **Ransomware:** Locks away all data on the device and requests cryptocurrency for it to be unlocked.
+     - **DDoS (Distributed Denial of Service):** Many bots sending request at a high rate which causes the denial of service on the device.
+     - **Man-in-the-Middle (MitM):** An intruders enters between ncommunications and steals intelligence.
 
 <!-- ### Example Descriptions
 
@@ -30,6 +30,11 @@ This is an open-book assessment, so feel free to refer to any resources you find
 
 1. **Potential Mitigations:**
    - For each type of attack described in Part 1, suggest one or more potential mitigations. Explain how these mitigations can help prevent or reduce the impact of the attacks.
+     - **Phishing:** Spread more awareness between users.
+     - **Malware:** Keep up to date with anti-virus applications.
+     - **Ransomware:** Make sure that device is secured from any intruders to it.
+     - **DDoS (Distributed Denial of Service):**  It first diverts all traffic else where then it filters clean traffic from the rest..
+     - **Man-in-the-Middle (MitM):** Its better to stick to passwordless authentication for more secure systems to eliminate the risk of this type of attack.
 
 <!-- ### Example Mitigations
 
