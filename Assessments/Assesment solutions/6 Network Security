@@ -1,0 +1,76 @@
+# 6 Network Security Concepts Assessment Brief
+
+## Overview
+
+Welcome to your sixth assessment! This exercise is designed to introduce you to network security concepts, including how the internet works, the importance of security, and how security is implemented. This is an open-book assessment worth 15% of your grade and should take about 30 minutes to complete.
+
+This is an open-book assessment, so feel free to refer to any resources you find helpful. It is worth 15% of your final grade.
+
+## Instructions
+
+### Part 1: How the Internet Works (10 minutes)
+
+Write a brief description (150-200 words) of how the internet works. Include key concepts such as IP addresses, DNS, and data packets.
+
+<!-- ### Example Answer
+
+The internet is a global network of interconnected computers that communicate through a standardized set of protocols. Each device on the internet is assigned a unique IP address that allows it to be identified and located by other devices. When you enter a website address into your browser, a DNS (Domain Name System) server translates the human-readable address into an IP address. Data is then broken into smaller packets and sent over various routes across the network to its destination, where it is reassembled into the original message. -->
+
+### Part 2: Importance of Network Security (10 minutes)
+
+Explain why network security is crucial. Discuss the potential risks and consequences of weak security, including examples of common threats like malware, phishing, and DDoS attacks.
+
+<!-- ### Example Explanation
+
+Network security is crucial to protect sensitive data from unauthorized access, theft, and damage. Weak security can lead to various risks, such as malware infections, phishing attacks, and Distributed Denial of Service (DDoS) attacks, which can disrupt services and cause significant financial and reputational damage. For instance, a malware attack can compromise personal information, leading to identity theft, while a DDoS attack can shut down an organization's online services, resulting in lost revenue and customer trust. -->
+
+### Part 3: Implementing Network Security (10 minutes)
+
+Describe how network security can be implemented. Include at least three methods such as firewalls, encryption, and secure protocols (e.g., HTTPS).
+
+<!-- ### Example Implementation
+
+Network security can be implemented through various methods:
+
+- **Firewalls:** Act as barriers between trusted and untrusted networks, monitoring and controlling incoming and outgoing network traffic based on predetermined security rules.
+- **Encryption:** Protects data by converting it into a code that can only be deciphered with a key, ensuring that sensitive information remains confidential during transmission.
+- **Secure Protocols:** Protocols like HTTPS ensure secure communication over the internet by encrypting data between the client and server, preventing interception and tampering. -->
+
+## Submission
+
+- Write your answers in a digital document.
+- Include your name at the top of the document.
+- Save the file with the name `"6 Network Security Assessment.md"` in the `"Solutions"` folder.
+
+Have fun, and take this opportunity to understand the essential concepts of network security!
+
+
+1. The internet is a vast network that operates through a complex system of interconnected devices and protocols. At its core are IP addresses, unique numerical labels assigned to each device connected to the internet. These addresses facilitate communication between devices by identifying senders and receivers of data packets.
+
+When a user requests a website, such as typing a domain name like www.example.com, the Domain Name System (DNS) translates this human-readable name into an IP address. This process enables browsers to locate the correct server that hosts the requested content.
+
+Data packets are fundamental to how information travels across the internet. These packets contain segments of data along with headers specifying their destination IP addresses. They traverse the network independently, following the most efficient route available. Upon reaching their destination, these packets are reassembled to reconstruct the original data.
+
+In essence, the internet's functionality hinges on these components working harmoniously: IP addresses for identification, DNS for addressing, and data packets for efficient transmission of information. Together, they form the backbone of modern digital communication.
+
+
+
+
+2. Network security is vital because it safeguards sensitive data and ensures the integrity, availability, and confidentiality of information transmitted over networks. Weak security exposes organizations and individuals to numerous risks. Malware, such as viruses and ransomware, can infiltrate systems, compromising data or rendering it inaccessible. Phishing attacks deceive users into divulging confidential information, leading to identity theft or unauthorized access to accounts. Distributed Denial of Service (DDoS) attacks flood networks with excessive traffic, causing disruptions and downtime.
+
+For instance, a company with inadequate security measures might fall victim to a ransomware attack, resulting in financial losses and operational disruptions. Similarly, a successful phishing campaign could lead to leaked customer information, damaging trust and reputation. DDoS attacks can cripple online services, impacting revenue and customer satisfaction. Therefore, robust network security measures, including firewalls, encryption, and regular updates, are essential to mitigate these risks and protect against evolving threats in the digital landscape.
+
+
+
+
+3. Network security is implemented through firewalls, which control traffic flow and block unauthorized access. Encryption converts data into unreadable formats, ensuring confidentiality during transmission and storage. Secure protocols like HTTPS encrypt data exchanged between users and websites, safeguarding against eavesdropping and tampering. These methods collectively mitigate risks such as unauthorized access, data breaches, and cyber attacks, bolstering overall network resilience and protecting sensitive information from malicious exploitation in today's interconnected digital landscape.
+
+
+
+
+
+
+
+
+
+

@@ -109,3 +109,24 @@ This practical exercise is designed to introduce you to the mathematical princip
 - Complete the exercises and ensure all solutions are documented.
 - Save your progress and ensure all solutions are documented and submitted to GitHub.
 - Save the file with the name `"9 Encryption Lab Maths.md"` in the `"Practical Solutions"` directory.
+
+
+Answers: 
+
+1. 
+
+Symmetric Encryption: Uses the same key for both encryption and decryption. Examples include AES and DES.
+
+Asymmetric Encryption: Uses a pair of keys (public and private) for encryption and decryption. Examples include RSA and DSA.
+
+Hash Functions: Generate fixed-size hash values for data integrity and digital signatures. Examples include SHA-256.
+
+Stream Ciphers and Block Ciphers: Stream ciphers encrypt data bit by bit, while block ciphers encrypt fixed-size blocks (e.g., 64 or 128 bits).
+
+Key Exchange Algorithms: Securely exchange encryption keys between parties. Examples include Diffie-Hellman and Elliptic Curve Cryptography (ECC).
+
+
+
+
+2. 
+

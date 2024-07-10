@@ -11,10 +11,9 @@ This practical exercise is designed to help you understand the importance of cyb
 1. **Choose from the Following Questions:**
    - Should companies be held legally responsible for data breaches involving customer information?
    - Should ethical hacking be legalised and regulated to improve cybersecurity measures?
-   - Should there be mandatory data breach notification laws for all organisations?
+   - 
    - Should governments have the authority to conduct mass surveillance for cybersecurity purposes?
-   - Should there be international standards for cybersecurity regulations and compliance?
-   - Should organisations be required to disclose their cybersecurity practices and measures to the public?
+   -
 
 2. **Divide into Groups:**
    - Divide students into two groups for each question, with one group arguing in favour and the other against.
@@ -71,3 +70,52 @@ This practical exercise is designed to help you understand the importance of cyb
 - Include the names of all group members at the top of the document.
 - Save your progress and ensure all solutions are documented and submitted to GitHub.
 - Save the file with the name `"15 Cybersecurity Legislation and Regulation.md"` in the `"Practical Solutions"` directory.
+
+
+
+
+Q1: Positives:
+
+Accountability: Encourages companies to prioritize cybersecurity and protect customer data.
+
+Deterrence: Discourages negligence and promotes proactive security measures.
+
+Consumer Trust: Enhances trust by ensuring companies are transparent and accountable.
+
+Fair Compensation: Provides affected customers with legal recourse for damages.
+
+
+Negatives:
+
+Financial Burden: Compliance costs can be high, particularly for small businesses.
+
+Litigation Costs: Legal battles can be expensive and divert resources.
+
+Innovation Impact: Strict liability may hinder innovation and adoption of new technologies.
+
+Complexity: Determining liability in complex breaches involving multiple parties can be challenging.
+
+
+
+
+
+Q2: Positives:
+
+Vulnerability Identification: Ethical hackers can find and report security weaknesses before malicious actors exploit them.
+
+Stronger Defenses: Regular ethical hacking tests can bolster cybersecurity by fixing vulnerabilities promptly.
+
+Skill Enhancement: Promotes cybersecurity expertise and workforce development.
+
+Trust and Accountability: Demonstrates transparency in handling sensitive data, fostering trust.
+
+
+Negatives:
+
+Potential Misuse: Improperly regulated ethical hacking may unintentionally disrupt systems.
+
+Legal and Ethical Issues: Unclear boundaries can lead to legal ambiguity and privacy concerns.
+
+Costly Implementation: Can be expensive for organizations with limited cybersecurity budgets.
+
+Misinterpretation: Ethical hacking activities might be mistaken for malicious attacks, causing legal or reputational issues
