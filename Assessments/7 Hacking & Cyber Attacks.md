@@ -20,7 +20,7 @@ This is an open-book assessment, so feel free to refer to any resources you find
 
 <!-- ### Example Descriptions
 
-- **Phishing:** A type of social engineering attack where attackers send fraudulent messages designed to trick individuals into revealing sensitive information such as usernames, passwords, and credit card details. For example, an attacker might send an email that appears to be from a trusted source, asking the recipient to click a link and enter their login credentials.
+- **Phishing:** 
 - **Malware:** Malicious software designed to damage, disrupt, or gain unauthorized access to computer systems. Examples include viruses, worms, trojans, and spyware. For instance, a virus might infect a computer and spread to other devices via email attachments.
 - **Ransomware:** A type of malware that encrypts a victim's files, making them inaccessible until a ransom is paid to the attacker. An example is the WannaCry ransomware attack that affected numerous organizations worldwide.
 - **DDoS (Distributed Denial of Service):** An attack that aims to overwhelm a website or online service with a flood of internet traffic, causing it to become slow or unavailable. Attackers often use botnets to carry out these attacks.

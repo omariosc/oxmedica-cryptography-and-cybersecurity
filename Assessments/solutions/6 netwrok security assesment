@@ -1,0 +1,22 @@
+q1
+The internet is like a vast network of roads connecting computers all around the world. Every device connected to the internet, like your phone or computer, has a unique address called an IP address. This address helps data know where to go and find its destination, just like a house number on a street.
+
+When you type a website's name into your browser, like "www.example.com," your device uses something called DNS (Domain Name System) to translate that name into the corresponding IP address. It's like looking up a phone number in a directory.
+
+Once your device has the correct IP address, it sends out small chunks of data called data packets. These packets travel through different routers and servers on the internet, which act like intersections and post offices, directing them to their destination. Each packet might take a different route to get there, but they all work together to deliver the complete message or webpage you requested.
+
+At the other end, the receiving computer or server reassembles the packets into the original message, which then appears on your screen. This whole process happens in a fraction of a second, allowing us to browse websites, send emails, and connect with people all over the world.
+
+q2
+network security is important so you can defend user information and gain a clients trust and have your servers running 24/. becuase common threats such as ddos attacks can shut diwn servers completely.
+
+
+q3
+
+Network security is important to keep our information safe while using the internet. Here are three key methods:
+
+Firewalls: Think of a firewall as a gatekeeper for your network. It checks all incoming and outgoing data to decide if it's safe. It blocks harmful traffic like viruses and hackers while allowing trusted information to pass through.
+
+Encryption: Encryption scrambles data so only authorized people can read it. It's like putting your message in a locked box before sending it. For example, HTTPS (HyperText Transfer Protocol Secure) encrypts web traffic, keeping things like passwords and credit card numbers safe from eavesdroppers.
+
+Secure Protocols: Protocols are rules computers follow to communicate. Secure protocols, like HTTPS mentioned earlier, add extra layers of protection. They ensure data travels safely between your device and the websites you visit, preventing tampering and unauthorized access.

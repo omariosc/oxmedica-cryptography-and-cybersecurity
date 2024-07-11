@@ -40,7 +40,7 @@ This practical exercise is designed to help you understand how to design a theor
         2. **Cross-Site Scripting (XSS):** User input fields may allow malicious script injection.
         3. **Cross-Site Request Forgery (CSRF):** The system could be tricked into executing unauthorized actions.
         4. **Man-in-the-Middle (MITM) Attacks:** Data transmitted over the internet might be intercepted.
-        5. **Denial of Service (DoS) Attacks:** The web server could be overwhelmed by excessive traffic.
+        5. **Denial of- Service (DoS) Attacks:** The web server could be overwhelmed by excessive traffic.
         6. **Phishing:** Users might be tricked into providing their login credentials to a fake website.
         ```
 

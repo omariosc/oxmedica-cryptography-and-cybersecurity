@@ -56,7 +56,7 @@ This is an open-book assessment, so feel free to refer to any resources you find
 **Chosen Technique:** Caesar Cipher
 
 **Original Message:** "Hello World"
-**Encryption Key:** 3
+**Encryption Key:** 
 
 **Encrypted Message:** "Khoor Zruog"
 

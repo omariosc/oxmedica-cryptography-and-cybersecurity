@@ -39,7 +39,7 @@ Answer the following questions to the best of your ability. Each question is des
 - Save the file with the name `"8 Final Written Assessment.md"` in the `"Solutions"` folder.
 - Write your answer for the Python script question using a code block in the document e.g., triple backticks for Python code (```).
 - Write your answer for SQL schema design using a code block in the document e.g., triple backticks for SQL code (```).
-
+ 
 ```bat
 ```python
 # Python code goes here
