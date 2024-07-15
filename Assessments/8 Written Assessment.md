@@ -22,6 +22,7 @@ Answer the following questions to the best of your ability. Each question is des
 4. **Database Systems:**
    - Design an SQL schema for an online store with the following requirements:
      - Products have a unique ID, name, description, and price.
+
      - Customers have a unique ID, name, email, and address.
      - Orders have a unique ID, customer ID, order date, and total amount.
      - Each order can contain multiple products. Include primary keys, foreign keys, and relevant data types.
